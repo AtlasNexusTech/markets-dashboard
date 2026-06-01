@@ -18,45 +18,45 @@
     "prev_close": 50669.0
   },
   "^FTSE": {
-    "price": 10409.28,
-    "change": -16.719999999999345,
-    "change_pct": -0.16,
-    "prev_close": 10426.0
+    "price": 10393.65,
+    "change": -15.630000000001019,
+    "change_pct": -0.15,
+    "prev_close": 10409.28
   },
   "^GDAXI": {
-    "price": 25104.7,
-    "change": 12.5,
-    "change_pct": 0.05,
-    "prev_close": 25092.2
+    "price": 25169.0,
+    "change": 64.29999999999927,
+    "change_pct": 0.26,
+    "prev_close": 25104.7
   },
   "^FCHI": {
-    "price": 8183.34,
-    "change": -5.529999999999745,
-    "change_pct": -0.07,
-    "prev_close": 8188.87
+    "price": 8193.84,
+    "change": 10.5,
+    "change_pct": 0.13,
+    "prev_close": 8183.34
   },
   "^N225": {
-    "price": 66923.35,
-    "change": 593.8500000000058,
-    "change_pct": 0.9,
+    "price": 66934.33,
+    "change": 604.8300000000017,
+    "change_pct": 0.91,
     "prev_close": 66329.5
   },
   "GC=F": {
-    "price": 4546.5,
-    "change": -46.5,
-    "change_pct": -1.01,
+    "price": 4530.2,
+    "change": -62.80000000000018,
+    "change_pct": -1.37,
     "prev_close": 4593.0
   },
   "SI=F": {
-    "price": 75.9,
-    "change": 0.025000000000005684,
-    "change_pct": 0.03,
+    "price": 76.17,
+    "change": 0.2950000000000017,
+    "change_pct": 0.39,
     "prev_close": 75.875
   },
   "CL=F": {
-    "price": 89.57,
-    "change": 2.2099999999999937,
-    "change_pct": 2.53,
+    "price": 90.61,
+    "change": 3.25,
+    "change_pct": 3.72,
     "prev_close": 87.36
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 81.01
   },
   "BTC-USD": {
-    "price": 73359.68,
-    "change": -208.72000000000116,
-    "change_pct": -0.28,
+    "price": 72548.72,
+    "change": -1019.679999999993,
+    "change_pct": -1.39,
     "prev_close": 73568.4
   },
   "ETH-USD": {
-    "price": 1995.46,
-    "change": -8.565900000000056,
-    "change_pct": -0.43,
+    "price": 1979.35,
+    "change": -24.675900000000183,
+    "change_pct": -1.23,
     "prev_close": 2004.0259
   },
-  "_updated": "2026-06-01T05:20:06.137703"
+  "_updated": "2026-06-01T10:35:00.693630"
 }
