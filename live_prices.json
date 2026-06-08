@@ -18,22 +18,22 @@
     "prev_close": 51561.9
   },
   "^FTSE": {
-    "price": 10368.05,
-    "change": 7.75,
-    "change_pct": 0.07,
-    "prev_close": 10360.3
+    "price": 10390.0,
+    "change": 21.950000000000728,
+    "change_pct": 0.21,
+    "prev_close": 10368.05
   },
   "^GDAXI": {
-    "price": 24759.05,
-    "change": -185.85000000000218,
-    "change_pct": -0.75,
-    "prev_close": 24944.9
+    "price": 24700.82,
+    "change": -58.22999999999956,
+    "change_pct": -0.24,
+    "prev_close": 24759.05
   },
   "^FCHI": {
-    "price": 8218.24,
-    "change": -26.05000000000109,
-    "change_pct": -0.32,
-    "prev_close": 8244.29
+    "price": 8215.45,
+    "change": -2.789999999999054,
+    "change_pct": -0.03,
+    "prev_close": 8218.24
   },
   "^N225": {
     "price": 64024.6,
@@ -42,21 +42,21 @@
     "prev_close": 66588.12
   },
   "GC=F": {
-    "price": 4323.2,
-    "change": -42.100000000000364,
-    "change_pct": -0.96,
+    "price": 4351.0,
+    "change": -14.300000000000182,
+    "change_pct": -0.33,
     "prev_close": 4365.3
   },
   "SI=F": {
-    "price": 67.215,
-    "change": -1.887999999999991,
-    "change_pct": -2.73,
+    "price": 68.32,
+    "change": -0.7830000000000013,
+    "change_pct": -1.13,
     "prev_close": 69.103
   },
   "CL=F": {
-    "price": 94.53,
-    "change": 3.989999999999995,
-    "change_pct": 4.41,
+    "price": 91.69,
+    "change": 1.1499999999999915,
+    "change_pct": 1.27,
     "prev_close": 90.54
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 80.07
   },
   "BTC-USD": {
-    "price": 62937.53,
-    "change": -372.7700000000041,
-    "change_pct": -0.59,
+    "price": 63452.25,
+    "change": 141.9499999999971,
+    "change_pct": 0.22,
     "prev_close": 63310.3
   },
   "ETH-USD": {
-    "price": 1665.6,
-    "change": -24.180000000000064,
-    "change_pct": -1.43,
+    "price": 1682.88,
+    "change": -6.899999999999864,
+    "change_pct": -0.41,
     "prev_close": 1689.78
   },
-  "_updated": "2026-06-08T06:55:29.514074"
+  "_updated": "2026-06-08T11:52:05.548779"
 }
