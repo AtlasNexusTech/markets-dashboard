@@ -120,16 +120,16 @@
     "prev_close": 75.46
   },
   "BTC-USD": {
-    "price": 63580.88,
-    "change": 37.75,
-    "change_pct": 0.06,
+    "price": 63746.79,
+    "change": 203.6600000000035,
+    "change_pct": 0.32,
     "prev_close": 63543.13
   },
   "ETH-USD": {
-    "price": 1666.12,
-    "change": 0.8849999999999909,
-    "change_pct": 0.05,
+    "price": 1673.78,
+    "change": 8.545000000000073,
+    "change_pct": 0.51,
     "prev_close": 1665.235
   },
-  "_updated": "2026-06-13T04:47:29.462485"
+  "_updated": "2026-06-13T08:13:13.447219"
 }
