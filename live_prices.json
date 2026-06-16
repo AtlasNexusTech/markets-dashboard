@@ -18,46 +18,46 @@
     "prev_close": 51202.26
   },
   "^FTSE": {
-    "price": 10430.62,
-    "change": -41.099999999998545,
-    "change_pct": -0.39,
-    "prev_close": 10471.72
+    "price": 10502.54,
+    "change": 71.92000000000007,
+    "change_pct": 0.69,
+    "prev_close": 10430.62
   },
   "^GDAXI": {
-    "price": 24894.01,
-    "change": 258.7099999999991,
-    "change_pct": 1.05,
-    "prev_close": 24635.3
+    "price": 25081.53,
+    "change": 187.52000000000044,
+    "change_pct": 0.75,
+    "prev_close": 24894.01
   },
   "^FCHI": {
-    "price": 8384.01,
-    "change": 33.13999999999942,
-    "change_pct": 0.4,
-    "prev_close": 8350.87
+    "price": 8450.41,
+    "change": 66.39999999999964,
+    "change_pct": 0.79,
+    "prev_close": 8384.01
   },
   "^N225": {
-    "price": 69676.89,
-    "change": 359.3899999999994,
-    "change_pct": 0.52,
+    "price": 69404.5,
+    "change": 87.0,
+    "change_pct": 0.13,
     "prev_close": 69317.5
   },
   "GC=F": {
-    "price": 4347.6,
-    "change": -4.0,
-    "change_pct": -0.09,
+    "price": 4366.6,
+    "change": 15.0,
+    "change_pct": 0.34,
     "prev_close": 4351.6
   },
   "SI=F": {
-    "price": 69.94,
-    "change": -0.2400000000000091,
-    "change_pct": -0.34,
+    "price": 70.545,
+    "change": 0.3649999999999949,
+    "change_pct": 0.52,
     "prev_close": 70.18
   },
   "CL=F": {
-    "price": 80.63,
-    "change": -0.12000000000000455,
-    "change_pct": -0.15,
-    "prev_close": 80.75
+    "price": 77.54,
+    "change": -1.8999999999999915,
+    "change_pct": -2.39,
+    "prev_close": 79.44
   },
   "AAPL": {
     "price": 296.42,
@@ -120,16 +120,16 @@
     "prev_close": 75.65
   },
   "BTC-USD": {
-    "price": 66061.46,
-    "change": -226.01999999998952,
-    "change_pct": -0.34,
+    "price": 66665.99,
+    "change": 378.5100000000093,
+    "change_pct": 0.57,
     "prev_close": 66287.48
   },
   "ETH-USD": {
-    "price": 1764.24,
-    "change": -30.695799999999963,
-    "change_pct": -1.71,
+    "price": 1792.32,
+    "change": -2.6158000000000357,
+    "change_pct": -0.15,
     "prev_close": 1794.9358
   },
-  "_updated": "2026-06-16T05:23:59.313609"
+  "_updated": "2026-06-16T10:23:26.113360"
 }
