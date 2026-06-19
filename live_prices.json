@@ -18,22 +18,22 @@
     "prev_close": 51492.55
   },
   "^FTSE": {
-    "price": 10399.7,
-    "change": -108.90999999999985,
-    "change_pct": -1.04,
-    "prev_close": 10508.61
+    "price": 10385.02,
+    "change": -14.680000000000291,
+    "change_pct": -0.14,
+    "prev_close": 10399.7
   },
   "^GDAXI": {
-    "price": 25026.8,
-    "change": 92.13000000000102,
-    "change_pct": 0.37,
-    "prev_close": 24934.67
+    "price": 25067.8,
+    "change": 41.0,
+    "change_pct": 0.16,
+    "prev_close": 25026.8
   },
   "^FCHI": {
-    "price": 8467.98,
-    "change": 37.18999999999869,
-    "change_pct": 0.44,
-    "prev_close": 8430.79
+    "price": 8469.51,
+    "change": 1.5300000000006548,
+    "change_pct": 0.02,
+    "prev_close": 8467.98
   },
   "^N225": {
     "price": 71250.06,
@@ -42,21 +42,21 @@
     "prev_close": 71053.49
   },
   "GC=F": {
-    "price": 4152.1,
-    "change": -93.79999999999927,
-    "change_pct": -2.21,
+    "price": 4168.8,
+    "change": -77.09999999999945,
+    "change_pct": -1.82,
     "prev_close": 4245.9
   },
   "SI=F": {
-    "price": 64.105,
-    "change": -2.2139999999999986,
-    "change_pct": -3.34,
+    "price": 64.91,
+    "change": -1.409000000000006,
+    "change_pct": -2.12,
     "prev_close": 66.319
   },
   "CL=F": {
-    "price": 76.57,
-    "change": 0.7199999999999989,
-    "change_pct": 0.95,
+    "price": 75.8,
+    "change": -0.04999999999999716,
+    "change_pct": -0.07,
     "prev_close": 75.85
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 78.49
   },
   "BTC-USD": {
-    "price": 62725.69,
-    "change": -157.18999999999505,
-    "change_pct": -0.25,
+    "price": 62395.05,
+    "change": -487.82999999999447,
+    "change_pct": -0.78,
     "prev_close": 62882.88
   },
   "ETH-USD": {
-    "price": 1695.77,
-    "change": -13.359500000000025,
-    "change_pct": -0.78,
+    "price": 1687.94,
+    "change": -21.189499999999953,
+    "change_pct": -1.24,
     "prev_close": 1709.1295
   },
-  "_updated": "2026-06-19T06:51:42.210265"
+  "_updated": "2026-06-19T11:08:43.589073"
 }
