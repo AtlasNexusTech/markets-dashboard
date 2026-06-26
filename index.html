@@ -206,7 +206,7 @@
    206|      <div class="reveal reveal-delay-1 market-card rounded-2xl p-6 border">
    207|        <p class="text-xs font-extrabold uppercase tracking-widest text-slate-400 dark:text-dark-dim mb-1">Scanner Coverage</p>
    208|        <div class="metric-value font-display text-foreground dark:text-dark-foreground">
-   209|          <span class="count-up gradient-text" data-target="100">100</span> assets
+   209|          <span class="count-up gradient-text" data-target="103">103</span> assets
    210|        </div>
    211|        <div class="flex items-center gap-2 mt-2 text-xs font-bold text-accent dark:text-green-400">
    212|          <span class="live-dot"></span> Yahoo Finance · live scoring
@@ -294,7 +294,7 @@
 <p class="scanner-sub">Top bullish and bearish assets ranked by composite pressure score — built for quick manual chart inspection. Each slot shows indicative market state: Open, Closed, or Pre-market.</p>
 <div class="scanner-quicklegend"><span>60–74 Active</span><span>75+ Strong</span><span>90+ Extreme</span><span>Chart ↗ opens TradingView</span></div>
 </div>
-<div class="scanner-score"><div class="num">100</div><div class="label">assets scanned</div></div>
+<div class="scanner-score"><div class="num">103</div><div class="label">assets scanned</div></div>
 </div>
 <div class="scanner-board" style="grid-template-columns:repeat(2,1fr)">
 <div class="signal-card"><h3>📈 Bullish pressure (7)</h3><div class="signal-row" data-market="stocks">
@@ -304,7 +304,7 @@
 <span class="asset-meta">actions · uptrend · bullish continuation</span>
 <span class="asset-levels">
 <span style="color:#bae6fd">🎟️ $148.50</span>
-<span class="market-state market-state-closed" data-market="stocks" data-market-state>Closed · listed markets</span>
+<span class="market-state market-state-pre-market" data-market="stocks" data-market-state>Pre-market · listed markets</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=NYSE%3APG" target="_blank" rel="noopener noreferrer" title="Open NYSE:PG on TradingView">Chart ↗</a>
 
 </span>
@@ -314,21 +314,21 @@
 <div class="score-meta">Net +42 · PG</div>
 <div class="status-mini" style="color:#f59e0b">👁️ Active</div>
 </div>
-</div><div class="signal-row" data-market="indices">
+</div><div class="signal-row" data-market="forex">
 <div>
-<span class="asset-name">FTSE 100</span>
+<span class="asset-name">EURCHF</span>
 <span class="asset-tag">Bullish pressure</span>
-<span class="asset-meta">indices · uptrend · bullish continuation</span>
+<span class="asset-meta">forex · uptrend · bullish continuation</span>
 <span class="asset-levels">
-<span style="color:#bae6fd">🎟️ 10,529.90 pts</span>
-<span class="market-state market-state-open" data-market="indices" data-market-state>Open · global/futures</span>
-<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=TVC%3AUKX" target="_blank" rel="noopener noreferrer" title="Open TVC:UKX on TradingView">Chart ↗</a>
+<span style="color:#bae6fd">🎟️ 0.9216</span>
+<span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
+<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3AEURCHF" target="_blank" rel="noopener noreferrer" title="Open FX:EURCHF on TradingView">Chart ↗</a>
 
 </span>
 </div>
 <div class="score-box">
 <span class="score-pill score-warm">67/100</span>
-<div class="score-meta">Net +43 · ^FTSE</div>
+<div class="score-meta">Net +46 · EURCHF=X</div>
 <div class="status-mini" style="color:#f59e0b">👁️ Active</div>
 </div>
 </div><div class="signal-row" data-market="etf">
@@ -338,7 +338,7 @@
 <span class="asset-meta">etf · uptrend · bullish continuation</span>
 <span class="asset-levels">
 <span style="color:#bae6fd">🎟️ $53.45</span>
-<span class="market-state market-state-closed" data-market="etf" data-market-state>Closed · listed markets</span>
+<span class="market-state market-state-pre-market" data-market="etf" data-market-state>Pre-market · listed markets</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=AMEX%3AXLF" target="_blank" rel="noopener noreferrer" title="Open AMEX:XLF on TradingView">Chart ↗</a>
 
 </span>
@@ -355,7 +355,7 @@
 <span class="asset-meta">etf · uptrend · breakout pressure · extension warning</span>
 <span class="asset-levels">
 <span style="color:#bae6fd">🎟️ $87.35</span>
-<span class="market-state market-state-closed" data-market="etf" data-market-state>Closed · listed markets</span>
+<span class="market-state market-state-pre-market" data-market="etf" data-market-state>Pre-market · listed markets</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=NASDAQ%3ATLT" target="_blank" rel="noopener noreferrer" title="Open NASDAQ:TLT on TradingView">Chart ↗</a>
 
 </span>
@@ -365,6 +365,23 @@
 <div class="score-meta">Net +47 · TLT</div>
 <div class="status-mini" style="color:#f59e0b">👁️ Active</div>
 </div>
+</div><div class="signal-row" data-market="forex">
+<div>
+<span class="asset-name">GBPCHF</span>
+<span class="asset-tag">Bullish pressure</span>
+<span class="asset-meta">forex · uptrend · bullish continuation</span>
+<span class="asset-levels">
+<span style="color:#bae6fd">🎟️ 1.0684</span>
+<span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
+<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3AGBPCHF" target="_blank" rel="noopener noreferrer" title="Open FX:GBPCHF on TradingView">Chart ↗</a>
+
+</span>
+</div>
+<div class="score-box">
+<span class="score-pill score-warm">66/100</span>
+<div class="score-meta">Net +50 · GBPCHF=X</div>
+<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
+</div>
 </div><div class="signal-row" data-market="etf">
 <div>
 <span class="asset-name">iShares Russell 2000</span>
@@ -372,7 +389,7 @@
 <span class="asset-meta">etf · uptrend · bullish continuation</span>
 <span class="asset-levels">
 <span style="color:#bae6fd">🎟️ $298.91</span>
-<span class="market-state market-state-closed" data-market="etf" data-market-state>Closed · listed markets</span>
+<span class="market-state market-state-pre-market" data-market="etf" data-market-state>Pre-market · listed markets</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=AMEX%3AIWM" target="_blank" rel="noopener noreferrer" title="Open AMEX:IWM on TradingView">Chart ↗</a>
 
 </span>
@@ -399,23 +416,6 @@
 <div class="score-meta">Net +43 · ^RUT</div>
 <div class="status-mini" style="color:#f59e0b">👁️ Active</div>
 </div>
-</div><div class="signal-row" data-market="indices">
-<div>
-<span class="asset-name">DAX</span>
-<span class="asset-tag">Bullish pressure</span>
-<span class="asset-meta">indices · mixed · mixed / no edge</span>
-<span class="asset-levels">
-<span style="color:#bae6fd">🎟️ 24,994.83 pts</span>
-<span class="market-state market-state-open" data-market="indices" data-market-state>Open · global/futures</span>
-<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=XETR%3ADAX" target="_blank" rel="noopener noreferrer" title="Open XETR:DAX on TradingView">Chart ↗</a>
-
-</span>
-</div>
-<div class="score-box">
-<span class="score-pill score-warm">63/100</span>
-<div class="score-meta">Net +42 · ^GDAXI</div>
-<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
-</div>
 </div></div>
 <div class="signal-card"><h3>📉 Bearish pressure (7)</h3><div class="signal-row" data-market="forex">
 <div>
@@ -423,7 +423,7 @@
 <span class="asset-tag">Bearish pressure</span>
 <span class="asset-meta">forex · downtrend · bearish continuation</span>
 <span class="asset-levels">
-<span style="color:#bae6fd">🎟️ 0.8618</span>
+<span style="color:#bae6fd">🎟️ 0.8626</span>
 <span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3AEURGBP" target="_blank" rel="noopener noreferrer" title="Open FX:EURGBP on TradingView">Chart ↗</a>
 
@@ -434,6 +434,23 @@
 <div class="score-meta">Net -46 · EURGBP=X</div>
 <div class="status-mini" style="color:#f59e0b">👁️ Active</div>
 </div>
+</div><div class="signal-row" data-market="forex">
+<div>
+<span class="asset-name">EURUSD</span>
+<span class="asset-tag">Bearish pressure</span>
+<span class="asset-meta">forex · downtrend · bearish continuation</span>
+<span class="asset-levels">
+<span style="color:#bae6fd">🎟️ 1.1414</span>
+<span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
+<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3AEURUSD" target="_blank" rel="noopener noreferrer" title="Open FX:EURUSD on TradingView">Chart ↗</a>
+
+</span>
+</div>
+<div class="score-box">
+<span class="score-pill score-warm">67/100</span>
+<div class="score-meta">Net -43 · EURUSD=X</div>
+<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
+</div>
 </div><div class="signal-row" data-market="stocks">
 <div>
 <span class="asset-name">Nike</span>
@@ -441,7 +458,7 @@
 <span class="asset-meta">actions · downtrend · breakdown pressure · extension warning</span>
 <span class="asset-levels">
 <span style="color:#bae6fd">🎟️ $40.90</span>
-<span class="market-state market-state-closed" data-market="stocks" data-market-state>Closed · listed markets</span>
+<span class="market-state market-state-pre-market" data-market="stocks" data-market-state>Pre-market · listed markets</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=NYSE%3ANKE" target="_blank" rel="noopener noreferrer" title="Open NYSE:NKE on TradingView">Chart ↗</a>
 
 </span>
@@ -457,15 +474,49 @@
 <span class="asset-tag">Bearish pressure</span>
 <span class="asset-meta">forex · downtrend · bearish continuation</span>
 <span class="asset-levels">
-<span style="color:#bae6fd">🎟️ 1.3200</span>
+<span style="color:#bae6fd">🎟️ 1.3228</span>
 <span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3AGBPUSD" target="_blank" rel="noopener noreferrer" title="Open FX:GBPUSD on TradingView">Chart ↗</a>
 
 </span>
 </div>
 <div class="score-box">
+<span class="score-pill score-warm">66/100</span>
+<div class="score-meta">Net -42 · GBPUSD=X</div>
+<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
+</div>
+</div><div class="signal-row" data-market="commodities">
+<div>
+<span class="asset-name">Gold</span>
+<span class="asset-tag">Bearish pressure</span>
+<span class="asset-meta">commodities · downtrend · breakdown pressure · extension warning</span>
+<span class="asset-levels">
+<span style="color:#bae6fd">🎟️ $4,067.80/USD/oz</span>
+<span class="market-state market-state-open" data-market="commodities" data-market-state>Open · futures/CFD</span>
+<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=COMEX%3AGC1%21" target="_blank" rel="noopener noreferrer" title="Open COMEX:GC1! on TradingView">Chart ↗</a>
+
+</span>
+</div>
+<div class="score-box">
 <span class="score-pill score-warm">64/100</span>
-<div class="score-meta">Net -43 · GBPUSD=X</div>
+<div class="score-meta">Net -47 · GC=F</div>
+<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
+</div>
+</div><div class="signal-row" data-market="forex">
+<div>
+<span class="asset-name">CADJPY</span>
+<span class="asset-tag">Bearish pressure</span>
+<span class="asset-meta">forex · downtrend · bearish continuation</span>
+<span class="asset-levels">
+<span style="color:#bae6fd">🎟️ 113.92</span>
+<span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
+<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3ACADJPY" target="_blank" rel="noopener noreferrer" title="Open FX:CADJPY on TradingView">Chart ↗</a>
+
+</span>
+</div>
+<div class="score-box">
+<span class="score-pill score-warm">63/100</span>
+<div class="score-meta">Net -42 · CADJPY=X</div>
 <div class="status-mini" style="color:#f59e0b">👁️ Active</div>
 </div>
 </div><div class="signal-row" data-market="stocks">
@@ -475,7 +526,7 @@
 <span class="asset-meta">actions · shock · shock / extended</span>
 <span class="asset-levels">
 <span style="color:#bae6fd">🎟️ $343.71</span>
-<span class="market-state market-state-closed" data-market="stocks" data-market-state>Closed · listed markets</span>
+<span class="market-state market-state-pre-market" data-market="stocks" data-market-state>Pre-market · listed markets</span>
 <a class="tv-link" href="https://www.tradingview.com/chart/?symbol=NASDAQ%3AGOOGL" target="_blank" rel="noopener noreferrer" title="Open NASDAQ:GOOGL on TradingView">Chart ↗</a>
 
 </span>
@@ -485,63 +536,12 @@
 <div class="score-meta">Net -29 · GOOGL</div>
 <div class="status-mini" style="color:#f59e0b">👁️ Active</div>
 </div>
-</div><div class="signal-row" data-market="stocks">
-<div>
-<span class="asset-name">Amazon</span>
-<span class="asset-tag">Bearish pressure</span>
-<span class="asset-meta">actions · shock · shock / extended · extension warning</span>
-<span class="asset-levels">
-<span style="color:#bae6fd">🎟️ $227.01</span>
-<span class="market-state market-state-closed" data-market="stocks" data-market-state>Closed · listed markets</span>
-<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=NASDAQ%3AAMZN" target="_blank" rel="noopener noreferrer" title="Open NASDAQ:AMZN on TradingView">Chart ↗</a>
-
-</span>
-</div>
-<div class="score-box">
-<span class="score-pill score-warm">63/100</span>
-<div class="score-meta">Net -43 · AMZN</div>
-<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
-</div>
-</div><div class="signal-row" data-market="forex">
-<div>
-<span class="asset-name">EURJPY</span>
-<span class="asset-tag">Bearish pressure</span>
-<span class="asset-meta">forex · downtrend · bearish continuation</span>
-<span class="asset-levels">
-<span style="color:#bae6fd">🎟️ 183.84</span>
-<span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
-<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3AEURJPY" target="_blank" rel="noopener noreferrer" title="Open FX:EURJPY on TradingView">Chart ↗</a>
-
-</span>
-</div>
-<div class="score-box">
-<span class="score-pill score-warm">60/100</span>
-<div class="score-meta">Net -39 · EURJPY=X</div>
-<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
-</div>
-</div><div class="signal-row" data-market="forex">
-<div>
-<span class="asset-name">CADJPY</span>
-<span class="asset-tag">Bearish pressure</span>
-<span class="asset-meta">forex · downtrend · bearish continuation</span>
-<span class="asset-levels">
-<span style="color:#bae6fd">🎟️ 113.86</span>
-<span class="market-state market-state-open" data-market="forex" data-market-state>Open · FX</span>
-<a class="tv-link" href="https://www.tradingview.com/chart/?symbol=FX%3ACADJPY" target="_blank" rel="noopener noreferrer" title="Open FX:CADJPY on TradingView">Chart ↗</a>
-
-</span>
-</div>
-<div class="score-box">
-<span class="score-pill score-warm">60/100</span>
-<div class="score-meta">Net -39 · CADJPY=X</div>
-<div class="status-mini" style="color:#f59e0b">👁️ Active</div>
-</div>
 </div></div>
 
 </div>
 <div class="legend">
 <span>0-39 Weak</span><span>40-59 Watch</span><span>60-74 Active pressure</span><span>75-89 Strong pressure</span><span>90-100 Extreme pressure</span>
-<span class="demo-tag">Updated 26/06/2026 08:09 CEST</span>
+<span class="demo-tag">Updated 26/06/2026 11:52 CEST</span>
 </div>
 </section>
    333|
