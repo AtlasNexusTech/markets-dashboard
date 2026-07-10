@@ -1,38 +1,38 @@
 {
   "^GSPC": {
-    "price": 7543.64,
-    "change": 60.93000000000029,
-    "change_pct": 0.81,
-    "prev_close": 7482.71
+    "price": 7558.18,
+    "change": 14.539999999999964,
+    "change_pct": 0.19,
+    "prev_close": 7543.64
   },
   "^IXIC": {
-    "price": 26206.89,
-    "change": 336.2380000000012,
-    "change_pct": 1.3,
-    "prev_close": 25870.652
+    "price": 26221.416,
+    "change": 14.526000000001659,
+    "change_pct": 0.06,
+    "prev_close": 26206.89
   },
   "^DJI": {
-    "price": 52487.41,
-    "change": 139.02000000000407,
+    "price": 52626.76,
+    "change": 139.34999999999854,
     "change_pct": 0.27,
-    "prev_close": 52348.39
+    "prev_close": 52487.41
   },
   "^FTSE": {
-    "price": 10491.5,
-    "change": 19.049999999999272,
-    "change_pct": 0.18,
+    "price": 10487.11,
+    "change": 14.659999999999854,
+    "change_pct": 0.14,
     "prev_close": 10472.45
   },
   "^GDAXI": {
-    "price": 25111.86,
-    "change": -6.4099999999998545,
-    "change_pct": -0.03,
+    "price": 25028.74,
+    "change": -89.52999999999884,
+    "change_pct": -0.36,
     "prev_close": 25118.27
   },
   "^FCHI": {
-    "price": 8323.17,
-    "change": -3.4500000000007276,
-    "change_pct": -0.04,
+    "price": 8311.83,
+    "change": -14.790000000000873,
+    "change_pct": -0.18,
     "prev_close": 8326.62
   },
   "^N225": {
@@ -42,94 +42,94 @@
     "prev_close": 67743.85
   },
   "GC=F": {
-    "price": 4109.0,
-    "change": -31.800000000000182,
-    "change_pct": -0.77,
+    "price": 4108.0,
+    "change": -32.80000000000018,
+    "change_pct": -0.79,
     "prev_close": 4140.8
   },
   "SI=F": {
-    "price": 59.94,
-    "change": -0.8079999999999998,
-    "change_pct": -1.33,
+    "price": 60.065,
+    "change": -0.6829999999999998,
+    "change_pct": -1.12,
     "prev_close": 60.748
   },
   "CL=F": {
-    "price": 72.2,
-    "change": 0.12000000000000455,
-    "change_pct": 0.17,
+    "price": 71.37,
+    "change": -0.7099999999999937,
+    "change_pct": -0.99,
     "prev_close": 72.08
   },
   "AAPL": {
-    "price": 316.22,
-    "change": 2.830000000000041,
-    "change_pct": 0.9,
-    "prev_close": 313.39
+    "price": 313.35,
+    "change": -2.8700000000000045,
+    "change_pct": -0.91,
+    "prev_close": 316.22
   },
   "MSFT": {
-    "price": 384.36,
-    "change": 1.0200000000000387,
-    "change_pct": 0.27,
-    "prev_close": 383.34
+    "price": 382.74,
+    "change": -1.6200000000000045,
+    "change_pct": -0.42,
+    "prev_close": 384.36
   },
   "NVDA": {
-    "price": 202.78,
-    "change": -1.3400000000000034,
-    "change_pct": -0.66,
-    "prev_close": 204.12
+    "price": 208.65,
+    "change": 5.8700000000000045,
+    "change_pct": 2.89,
+    "prev_close": 202.78
   },
   "TSLA": {
-    "price": 406.55,
-    "change": 12.620000000000005,
-    "change_pct": 3.2,
-    "prev_close": 393.93
+    "price": 409.565,
+    "change": 3.0149999999999864,
+    "change_pct": 0.74,
+    "prev_close": 406.55
   },
   "GOOGL": {
-    "price": 358.89,
-    "change": -3.0300000000000296,
-    "change_pct": -0.84,
-    "prev_close": 361.92
+    "price": 354.085,
+    "change": -4.805000000000007,
+    "change_pct": -1.34,
+    "prev_close": 358.89
   },
   "AMZN": {
-    "price": 247.04,
-    "change": 3.4199999999999875,
-    "change_pct": 1.4,
-    "prev_close": 243.62
+    "price": 245.89,
+    "change": -1.1500000000000057,
+    "change_pct": -0.47,
+    "prev_close": 247.04
   },
   "SPY": {
-    "price": 751.71,
-    "change": 6.310000000000059,
-    "change_pct": 0.85,
-    "prev_close": 745.4
+    "price": 753.17,
+    "change": 1.4599999999999227,
+    "change_pct": 0.19,
+    "prev_close": 751.71
   },
   "QQQ": {
-    "price": 723.28,
-    "change": 11.839999999999918,
-    "change_pct": 1.66,
-    "prev_close": 711.44
+    "price": 723.935,
+    "change": 0.7091999999998961,
+    "change_pct": 0.1,
+    "prev_close": 723.2258
   },
   "GLD": {
-    "price": 378.18,
-    "change": 3.730000000000018,
-    "change_pct": 1.0,
-    "prev_close": 374.45
+    "price": 376.29,
+    "change": -1.8899999999999864,
+    "change_pct": -0.5,
+    "prev_close": 378.18
   },
   "ARKK": {
-    "price": 81.53,
-    "change": 1.3700000000000045,
-    "change_pct": 1.71,
-    "prev_close": 80.16
+    "price": 80.355,
+    "change": -1.1749999999999972,
+    "change_pct": -1.44,
+    "prev_close": 81.53
   },
   "BTC-USD": {
-    "price": 64270.82,
-    "change": 1086.0199999999968,
-    "change_pct": 1.72,
+    "price": 64077.3,
+    "change": 892.5,
+    "change_pct": 1.41,
     "prev_close": 63184.8
   },
   "ETH-USD": {
-    "price": 1793.31,
-    "change": 49.0311999999999,
-    "change_pct": 2.81,
+    "price": 1792.25,
+    "change": 47.97119999999995,
+    "change_pct": 2.75,
     "prev_close": 1744.2788
   },
-  "_updated": "2026-07-10T12:56:43.300468"
+  "_updated": "2026-07-10T15:29:50.210638"
 }
