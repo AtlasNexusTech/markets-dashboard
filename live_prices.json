@@ -42,21 +42,21 @@
     "prev_close": 67743.85
   },
   "GC=F": {
-    "price": 4116.7,
-    "change": -24.100000000000364,
-    "change_pct": -0.58,
+    "price": 4128.9,
+    "change": -11.900000000000546,
+    "change_pct": -0.29,
     "prev_close": 4140.8
   },
   "SI=F": {
-    "price": 60.115,
-    "change": -0.6329999999999956,
-    "change_pct": -1.04,
+    "price": 60.3,
+    "change": -0.4480000000000004,
+    "change_pct": -0.74,
     "prev_close": 60.748
   },
   "CL=F": {
-    "price": 71.59,
-    "change": -0.4899999999999949,
-    "change_pct": -0.68,
+    "price": 71.51,
+    "change": -0.5699999999999932,
+    "change_pct": -0.79,
     "prev_close": 72.08
   },
   "AAPL": {
@@ -96,8 +96,8 @@
     "prev_close": 247.04
   },
   "SPY": {
-    "price": 754.94,
-    "change": 3.230000000000018,
+    "price": 754.95,
+    "change": 3.240000000000009,
     "change_pct": 0.43,
     "prev_close": 751.71
   },
@@ -108,28 +108,28 @@
     "prev_close": 723.2258
   },
   "GLD": {
-    "price": 376.91,
-    "change": -1.2699999999999818,
-    "change_pct": -0.34,
+    "price": 377.01,
+    "change": -1.170000000000016,
+    "change_pct": -0.31,
     "prev_close": 378.18
   },
   "ARKK": {
-    "price": 80.255,
-    "change": -1.2750000000000057,
-    "change_pct": -1.56,
+    "price": 80.245,
+    "change": -1.2849999999999966,
+    "change_pct": -1.58,
     "prev_close": 81.53
   },
   "BTC-USD": {
-    "price": 63746.67,
-    "change": 561.8699999999953,
-    "change_pct": 0.89,
+    "price": 63973.0,
+    "change": 788.1999999999971,
+    "change_pct": 1.25,
     "prev_close": 63184.8
   },
   "ETH-USD": {
-    "price": 1783.55,
-    "change": 39.27119999999991,
-    "change_pct": 2.25,
+    "price": 1795.09,
+    "change": 50.81119999999987,
+    "change_pct": 2.91,
     "prev_close": 1744.2788
   },
-  "_updated": "2026-07-10T20:08:58.017556"
+  "_updated": "2026-07-10T21:18:44.205065"
 }
