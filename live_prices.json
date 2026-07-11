@@ -1,4 +1,10 @@
 {
+  "^GSPC": {
+    "price": 7575.39,
+    "change": 31.75,
+    "change_pct": 0.42,
+    "prev_close": 7543.64
+  },
   "^IXIC": {
     "price": 26281.607,
     "change": 74.71700000000055,
@@ -114,16 +120,16 @@
     "prev_close": 81.53
   },
   "BTC-USD": {
-    "price": 64173.94,
-    "change": 48.038000000000466,
-    "change_pct": 0.07,
+    "price": 64264.99,
+    "change": 139.0879999999961,
+    "change_pct": 0.22,
     "prev_close": 64125.902
   },
   "ETH-USD": {
-    "price": 1820.04,
-    "change": 24.35019999999986,
-    "change_pct": 1.36,
+    "price": 1823.78,
+    "change": 28.090199999999868,
+    "change_pct": 1.56,
     "prev_close": 1795.6898
   },
-  "_updated": "2026-07-11T17:13:28.597927"
+  "_updated": "2026-07-11T18:07:42.265039"
 }
