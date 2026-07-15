@@ -42,21 +42,21 @@
     "prev_close": 67743.5
   },
   "GC=F": {
-    "price": 4067.8,
-    "change": 16.0,
-    "change_pct": 0.39,
+    "price": 4063.5,
+    "change": 11.699999999999818,
+    "change_pct": 0.29,
     "prev_close": 4051.8
   },
   "SI=F": {
-    "price": 58.17,
-    "change": 0.7370000000000019,
-    "change_pct": 1.28,
+    "price": 58.175,
+    "change": 0.7419999999999973,
+    "change_pct": 1.29,
     "prev_close": 57.433
   },
   "CL=F": {
-    "price": 80.43,
-    "change": 0.8300000000000125,
-    "change_pct": 1.04,
+    "price": 80.18,
+    "change": 0.5800000000000125,
+    "change_pct": 0.73,
     "prev_close": 79.6
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 79.52
   },
   "BTC-USD": {
-    "price": 64847.61,
-    "change": -127.14400000000023,
-    "change_pct": -0.2,
+    "price": 64763.25,
+    "change": -211.50400000000081,
+    "change_pct": -0.33,
     "prev_close": 64974.754
   },
   "ETH-USD": {
-    "price": 1922.7,
-    "change": 32.73050000000012,
-    "change_pct": 1.73,
+    "price": 1918.88,
+    "change": 28.910500000000184,
+    "change_pct": 1.53,
     "prev_close": 1889.9695
   },
-  "_updated": "2026-07-15T22:40:53.229478"
+  "_updated": "2026-07-15T23:39:44.345516"
 }
