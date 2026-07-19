@@ -7,15 +7,15 @@
   },
   "^IXIC": {
     "price": 25520.244,
-    "change": -361.70300000000134,
+    "change": -361.6560000000027,
     "change_pct": -1.4,
-    "prev_close": 25881.947
+    "prev_close": 25881.9
   },
   "^DJI": {
     "price": 52146.42,
-    "change": -406.5500000000029,
+    "change": -406.58000000000175,
     "change_pct": -0.77,
-    "prev_close": 52552.97
+    "prev_close": 52553.0
   },
   "^FTSE": {
     "price": 10600.37,
@@ -61,9 +61,9 @@
   },
   "AAPL": {
     "price": 333.74,
-    "change": 0.4800000000000182,
+    "change": 0.48002000000002454,
     "change_pct": 0.14,
-    "prev_close": 333.26
+    "prev_close": 333.25998
   },
   "MSFT": {
     "price": 393.82,
@@ -120,16 +120,16 @@
     "prev_close": 76.67
   },
   "BTC-USD": {
-    "price": 64473.59,
-    "change": -320.6600000000035,
-    "change_pct": -0.49,
+    "price": 64618.71,
+    "change": -175.54000000000087,
+    "change_pct": -0.27,
     "prev_close": 64794.25
   },
   "ETH-USD": {
-    "price": 1868.0,
-    "change": 6.585900000000038,
-    "change_pct": 0.35,
+    "price": 1868.16,
+    "change": 6.74590000000012,
+    "change_pct": 0.36,
     "prev_close": 1861.4141
   },
-  "_updated": "2026-07-19T16:08:57.775151"
+  "_updated": "2026-07-19T17:12:54.068938"
 }
