@@ -18,22 +18,22 @@
     "prev_close": 54036.93
   },
   "^FTSE": {
-    "price": 10862.5,
-    "change": -38.590000000000146,
-    "change_pct": -0.35,
-    "prev_close": 10901.09
+    "price": 10852.28,
+    "change": -10.219999999999345,
+    "change_pct": -0.09,
+    "prev_close": 10862.5
   },
   "^GDAXI": {
-    "price": 26323.88,
-    "change": 4.430000000000291,
+    "price": 26330.09,
+    "change": 6.209999999999127,
     "change_pct": 0.02,
-    "prev_close": 26319.45
+    "prev_close": 26323.88
   },
   "^FCHI": {
-    "price": 8726.03,
-    "change": 11.100000000000364,
-    "change_pct": 0.13,
-    "prev_close": 8714.93
+    "price": 8723.13,
+    "change": -2.900000000001455,
+    "change_pct": -0.03,
+    "prev_close": 8726.03
   },
   "^N225": {
     "price": 66970.22,
@@ -42,21 +42,21 @@
     "prev_close": 65606.71
   },
   "GC=F": {
-    "price": 4432.9,
-    "change": 13.199999999999818,
-    "change_pct": 0.3,
+    "price": 4419.1,
+    "change": -0.5999999999994543,
+    "change_pct": -0.01,
     "prev_close": 4419.7
   },
   "SI=F": {
-    "price": 64.87,
-    "change": -0.402000000000001,
-    "change_pct": -0.62,
+    "price": 64.655,
+    "change": -0.6170000000000044,
+    "change_pct": -0.95,
     "prev_close": 65.272
   },
   "CL=F": {
-    "price": 82.6,
-    "change": 0.46999999999999886,
-    "change_pct": 0.57,
+    "price": 83.78,
+    "change": 1.6500000000000057,
+    "change_pct": 2.01,
     "prev_close": 82.13
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 79.43
   },
   "BTC-USD": {
-    "price": 63837.8,
-    "change": -74.7039999999979,
-    "change_pct": -0.12,
+    "price": 64008.0,
+    "change": 95.49599999999919,
+    "change_pct": 0.15,
     "prev_close": 63912.504
   },
   "ETH-USD": {
-    "price": 1870.4,
-    "change": -0.9299999999998363,
-    "change_pct": -0.05,
+    "price": 1875.91,
+    "change": 4.580000000000155,
+    "change_pct": 0.24,
     "prev_close": 1871.33
   },
-  "_updated": "2026-08-11T06:35:03.193644"
+  "_updated": "2026-08-11T07:49:59.153356"
 }
