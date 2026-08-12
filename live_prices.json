@@ -18,22 +18,22 @@
     "prev_close": 53975.98
   },
   "^FTSE": {
-    "price": 10844.19,
-    "change": -18.30999999999949,
-    "change_pct": -0.17,
-    "prev_close": 10862.5
+    "price": 10827.59,
+    "change": -16.600000000000364,
+    "change_pct": -0.15,
+    "prev_close": 10844.19
   },
   "^GDAXI": {
-    "price": 26391.42,
-    "change": 67.53999999999724,
-    "change_pct": 0.26,
-    "prev_close": 26323.88
+    "price": 26424.29,
+    "change": 32.87000000000262,
+    "change_pct": 0.12,
+    "prev_close": 26391.42
   },
   "^FCHI": {
-    "price": 8714.94,
-    "change": -11.090000000000146,
-    "change_pct": -0.13,
-    "prev_close": 8726.03
+    "price": 8690.56,
+    "change": -24.38000000000102,
+    "change_pct": -0.28,
+    "prev_close": 8714.94
   },
   "^N225": {
     "price": 67524.06,
@@ -42,21 +42,21 @@
     "prev_close": 66970.22
   },
   "GC=F": {
-    "price": 4460.1,
-    "change": 19.0,
-    "change_pct": 0.43,
+    "price": 4468.0,
+    "change": 26.899999999999636,
+    "change_pct": 0.61,
     "prev_close": 4441.1
   },
   "SI=F": {
-    "price": 66.13,
-    "change": 1.1949999999999932,
-    "change_pct": 1.84,
+    "price": 66.36,
+    "change": 1.4249999999999972,
+    "change_pct": 2.19,
     "prev_close": 64.935
   },
   "CL=F": {
-    "price": 83.56,
-    "change": 0.35999999999999943,
-    "change_pct": 0.43,
+    "price": 83.72,
+    "change": 0.519999999999996,
+    "change_pct": 0.62,
     "prev_close": 83.2
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 80.44
   },
   "BTC-USD": {
-    "price": 63649.85,
-    "change": 102.80299999999988,
-    "change_pct": 0.16,
+    "price": 63745.82,
+    "change": 198.77300000000105,
+    "change_pct": 0.31,
     "prev_close": 63547.047
   },
   "ETH-USD": {
-    "price": 1885.86,
-    "change": 4.7552999999998065,
-    "change_pct": 0.25,
+    "price": 1891.24,
+    "change": 10.135299999999916,
+    "change_pct": 0.54,
     "prev_close": 1881.1047
   },
-  "_updated": "2026-08-12T06:59:58.555761"
+  "_updated": "2026-08-12T08:22:27.853024"
 }
