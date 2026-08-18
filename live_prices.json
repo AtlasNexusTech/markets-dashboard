@@ -18,22 +18,22 @@
     "prev_close": 53732.4
   },
   "^FTSE": {
-    "price": 10720.3,
-    "change": 0.0,
-    "change_pct": 0.0,
+    "price": 10731.69,
+    "change": 11.390000000001237,
+    "change_pct": 0.11,
     "prev_close": 10720.3
   },
   "^GDAXI": {
-    "price": 26338.61,
-    "change": -101.68999999999869,
-    "change_pct": -0.38,
-    "prev_close": 26440.3
+    "price": 26236.6,
+    "change": -102.01000000000204,
+    "change_pct": -0.39,
+    "prev_close": 26338.61
   },
   "^FCHI": {
-    "price": 8579.6,
-    "change": -57.19999999999891,
-    "change_pct": -0.66,
-    "prev_close": 8636.8
+    "price": 8560.34,
+    "change": -19.26000000000022,
+    "change_pct": -0.22,
+    "prev_close": 8579.6
   },
   "^N225": {
     "price": 67460.73,
@@ -42,21 +42,21 @@
     "prev_close": 69220.25
   },
   "GC=F": {
-    "price": 4453.3,
-    "change": -20.399999999999636,
-    "change_pct": -0.46,
+    "price": 4458.5,
+    "change": -15.199999999999818,
+    "change_pct": -0.34,
     "prev_close": 4473.7
   },
   "SI=F": {
-    "price": 65.35,
-    "change": -0.8810000000000002,
-    "change_pct": -1.33,
+    "price": 65.32,
+    "change": -0.9110000000000014,
+    "change_pct": -1.38,
     "prev_close": 66.231
   },
   "CL=F": {
-    "price": 85.42,
-    "change": 0.9200000000000017,
-    "change_pct": 1.09,
+    "price": 84.1,
+    "change": -0.4000000000000057,
+    "change_pct": -0.47,
     "prev_close": 84.5
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 81.1
   },
   "BTC-USD": {
-    "price": 64244.18,
-    "change": -243.47000000000116,
-    "change_pct": -0.38,
+    "price": 64159.49,
+    "change": -328.1600000000035,
+    "change_pct": -0.51,
     "prev_close": 64487.65
   },
   "ETH-USD": {
-    "price": 1900.83,
-    "change": -11.060500000000047,
-    "change_pct": -0.58,
+    "price": 1897.29,
+    "change": -14.600500000000011,
+    "change_pct": -0.76,
     "prev_close": 1911.8905
   },
-  "_updated": "2026-08-18T07:06:34.508037"
+  "_updated": "2026-08-18T07:48:59.552128"
 }
