@@ -1,26 +1,26 @@
 {
   "^GSPC": {
-    "price": 7705.79,
-    "change": -39.27000000000044,
-    "change_pct": -0.51,
+    "price": 7703.36,
+    "change": -41.70000000000073,
+    "change_pct": -0.54,
     "prev_close": 7745.06
   },
   "^IXIC": {
-    "price": 26344.521,
-    "change": -300.3889999999992,
-    "change_pct": -1.13,
+    "price": 26349.252,
+    "change": -295.65799999999945,
+    "change_pct": -1.11,
     "prev_close": 26644.91
   },
   "^DJI": {
-    "price": 53369.7,
-    "change": -90.08000000000175,
+    "price": 53366.97,
+    "change": -92.80999999999767,
     "change_pct": -0.17,
     "prev_close": 53459.78
   },
   "^FTSE": {
-    "price": 10735.49,
-    "change": 15.19000000000051,
-    "change_pct": 0.14,
+    "price": 10728.04,
+    "change": 7.740000000001601,
+    "change_pct": 0.07,
     "prev_close": 10720.3
   },
   "^GDAXI": {
@@ -42,94 +42,94 @@
     "prev_close": 69220.25
   },
   "GC=F": {
-    "price": 4413.5,
-    "change": -60.19999999999982,
-    "change_pct": -1.35,
+    "price": 4422.7,
+    "change": -51.0,
+    "change_pct": -1.14,
     "prev_close": 4473.7
   },
   "SI=F": {
-    "price": 63.785,
-    "change": -2.445999999999998,
-    "change_pct": -3.69,
+    "price": 64.155,
+    "change": -2.0759999999999934,
+    "change_pct": -3.13,
     "prev_close": 66.231
   },
   "CL=F": {
-    "price": 84.69,
-    "change": 0.9500000000000028,
-    "change_pct": 1.13,
+    "price": 84.48,
+    "change": 0.7400000000000091,
+    "change_pct": 0.88,
     "prev_close": 83.74
   },
   "AAPL": {
-    "price": 309.639,
-    "change": 4.049000000000035,
-    "change_pct": 1.32,
+    "price": 310.19,
+    "change": 4.600000000000023,
+    "change_pct": 1.51,
     "prev_close": 305.59
   },
   "MSFT": {
-    "price": 481.01,
-    "change": 0.6599999999999682,
-    "change_pct": 0.14,
+    "price": 481.91,
+    "change": 1.5600000000000023,
+    "change_pct": 0.32,
     "prev_close": 480.35
   },
   "NVDA": {
-    "price": 220.15,
-    "change": -4.859999999999985,
-    "change_pct": -2.16,
+    "price": 219.912,
+    "change": -5.097999999999985,
+    "change_pct": -2.27,
     "prev_close": 225.01
   },
   "TSLA": {
-    "price": 338.98,
-    "change": -0.3199999999999932,
-    "change_pct": -0.09,
+    "price": 338.3,
+    "change": -1.0,
+    "change_pct": -0.29,
     "prev_close": 339.3
   },
   "GOOGL": {
-    "price": 342.89,
-    "change": -1.1100000000000136,
-    "change_pct": -0.32,
+    "price": 343.45,
+    "change": -0.5500000000000114,
+    "change_pct": -0.16,
     "prev_close": 344.0
   },
   "AMZN": {
-    "price": 260.33,
-    "change": -0.9800000000000182,
-    "change_pct": -0.38,
+    "price": 260.885,
+    "change": -0.42500000000001137,
+    "change_pct": -0.16,
     "prev_close": 261.31
   },
   "SPY": {
-    "price": 768.52,
-    "change": -4.149999999999977,
-    "change_pct": -0.54,
+    "price": 768.4,
+    "change": -4.269999999999982,
+    "change_pct": -0.55,
     "prev_close": 772.67
   },
   "QQQ": {
-    "price": 718.65,
-    "change": -11.220000000000027,
-    "change_pct": -1.54,
+    "price": 718.895,
+    "change": -10.975000000000023,
+    "change_pct": -1.5,
     "prev_close": 729.87
   },
   "GLD": {
-    "price": 400.38,
-    "change": -5.110000000000014,
-    "change_pct": -1.26,
+    "price": 400.45,
+    "change": -5.0400000000000205,
+    "change_pct": -1.24,
     "prev_close": 405.49
   },
   "ARKK": {
-    "price": 79.59,
-    "change": -2.1599999999999966,
-    "change_pct": -2.64,
+    "price": 79.61,
+    "change": -2.1400000000000006,
+    "change_pct": -2.62,
     "prev_close": 81.75
   },
   "BTC-USD": {
-    "price": 64825.51,
-    "change": 337.8600000000006,
-    "change_pct": 0.52,
+    "price": 64704.02,
+    "change": 216.36999999999534,
+    "change_pct": 0.34,
     "prev_close": 64487.65
   },
   "ETH-USD": {
-    "price": 1916.81,
-    "change": 4.919499999999971,
-    "change_pct": 0.26,
+    "price": 1913.64,
+    "change": 1.7495000000001255,
+    "change_pct": 0.09,
     "prev_close": 1911.8905
   },
-  "_updated": "2026-08-18T15:53:29.653146"
+  "_updated": "2026-08-18T16:17:12.947869"
 }
