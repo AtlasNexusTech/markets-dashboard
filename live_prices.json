@@ -18,22 +18,22 @@
     "prev_close": 53459.8
   },
   "^FTSE": {
-    "price": 10728.04,
-    "change": 7.740000000001601,
-    "change_pct": 0.07,
-    "prev_close": 10720.3
+    "price": 10728.15,
+    "change": 0.10999999999876309,
+    "change_pct": 0.0,
+    "prev_close": 10728.04
   },
   "^GDAXI": {
-    "price": 26128.36,
-    "change": -210.23999999999796,
-    "change_pct": -0.8,
-    "prev_close": 26338.6
+    "price": 26120.1,
+    "change": -8.260000000002037,
+    "change_pct": -0.03,
+    "prev_close": 26128.36
   },
   "^FCHI": {
-    "price": 8509.36,
-    "change": -70.23999999999978,
-    "change_pct": -0.82,
-    "prev_close": 8579.6
+    "price": 8525.3,
+    "change": 15.93999999999869,
+    "change_pct": 0.19,
+    "prev_close": 8509.36
   },
   "^N225": {
     "price": 65326.42,
@@ -42,21 +42,21 @@
     "prev_close": 67460.73
   },
   "GC=F": {
-    "price": 4394.9,
-    "change": -25.700000000000728,
-    "change_pct": -0.58,
+    "price": 4406.1,
+    "change": -14.5,
+    "change_pct": -0.33,
     "prev_close": 4420.6
   },
   "SI=F": {
-    "price": 62.945,
-    "change": -1.0920000000000059,
-    "change_pct": -1.71,
+    "price": 63.195,
+    "change": -0.8420000000000059,
+    "change_pct": -1.31,
     "prev_close": 64.037
   },
   "CL=F": {
-    "price": 84.65,
-    "change": 0.5900000000000034,
-    "change_pct": 0.7,
+    "price": 84.67,
+    "change": 0.6099999999999994,
+    "change_pct": 0.73,
     "prev_close": 84.06
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 81.75
   },
   "BTC-USD": {
-    "price": 64273.0,
-    "change": -408.22000000000116,
-    "change_pct": -0.63,
+    "price": 64304.59,
+    "change": -376.63000000000466,
+    "change_pct": -0.58,
     "prev_close": 64681.22
   },
   "ETH-USD": {
-    "price": 1914.26,
-    "change": -2.2140999999999167,
-    "change_pct": -0.12,
+    "price": 1917.4,
+    "change": 0.9259000000001834,
+    "change_pct": 0.05,
     "prev_close": 1916.4741
   },
-  "_updated": "2026-08-19T06:56:05.049466"
+  "_updated": "2026-08-19T07:33:32.359706"
 }
