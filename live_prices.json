@@ -12,8 +12,8 @@
     "prev_close": 26067.166
   },
   "^DJI": {
-    "price": 53277.01,
-    "change": 517.810000000005,
+    "price": 53277.0,
+    "change": 517.8000000000029,
     "change_pct": 0.98,
     "prev_close": 52759.2
   },
@@ -120,16 +120,16 @@
     "prev_close": 83.27
   },
   "BTC-USD": {
-    "price": 77221.31,
-    "change": -1105.6600000000035,
-    "change_pct": -1.41,
+    "price": 77288.7,
+    "change": -1038.270000000004,
+    "change_pct": -1.33,
     "prev_close": 78326.97
   },
   "ETH-USD": {
-    "price": 2424.72,
-    "change": -90.55439999999999,
-    "change_pct": -3.6,
+    "price": 2429.49,
+    "change": -85.7844,
+    "change_pct": -3.41,
     "prev_close": 2515.2744
   },
-  "_updated": "2026-08-22T19:07:45.750645"
+  "_updated": "2026-08-22T19:31:32.104247"
 }
