@@ -12,27 +12,27 @@
     "prev_close": 26180.5
   },
   "^DJI": {
-    "price": 53417.2,
-    "change": 140.1999999999971,
+    "price": 53417.16,
+    "change": 140.1600000000035,
     "change_pct": 0.26,
     "prev_close": 53277.0
   },
   "^FTSE": {
-    "price": 10880.32,
-    "change": 26.0,
-    "change_pct": 0.24,
+    "price": 10858.6,
+    "change": 4.280000000000655,
+    "change_pct": 0.04,
     "prev_close": 10854.32
   },
   "^GDAXI": {
-    "price": 26208.7,
-    "change": 102.10000000000218,
-    "change_pct": 0.39,
+    "price": 26169.69,
+    "change": 63.090000000000146,
+    "change_pct": 0.24,
     "prev_close": 26106.6
   },
   "^FCHI": {
-    "price": 8484.44,
-    "change": 31.43000000000029,
-    "change_pct": 0.37,
+    "price": 8464.85,
+    "change": 11.840000000000146,
+    "change_pct": 0.14,
     "prev_close": 8453.01
   },
   "^N225": {
@@ -42,21 +42,21 @@
     "prev_close": 65528.09
   },
   "GC=F": {
-    "price": 4693.8,
-    "change": -4.0,
-    "change_pct": -0.09,
+    "price": 4680.6,
+    "change": -17.199999999999818,
+    "change_pct": -0.37,
     "prev_close": 4697.8
   },
   "SI=F": {
-    "price": 68.175,
-    "change": -0.41899999999999693,
-    "change_pct": -0.61,
+    "price": 67.755,
+    "change": -0.8389999999999986,
+    "change_pct": -1.22,
     "prev_close": 68.594
   },
   "CL=F": {
-    "price": 84.36,
-    "change": -0.6500000000000057,
-    "change_pct": -0.76,
+    "price": 84.58,
+    "change": -0.4300000000000068,
+    "change_pct": -0.51,
     "prev_close": 85.01
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 86.21
   },
   "BTC-USD": {
-    "price": 79799.07,
-    "change": 816.8040000000037,
-    "change_pct": 1.03,
+    "price": 80101.91,
+    "change": 1119.6440000000002,
+    "change_pct": 1.42,
     "prev_close": 78982.266
   },
   "ETH-USD": {
-    "price": 2480.52,
-    "change": -1.8528000000001157,
-    "change_pct": -0.07,
+    "price": 2492.42,
+    "change": 10.047199999999975,
+    "change_pct": 0.4,
     "prev_close": 2482.3728
   },
-  "_updated": "2026-08-25T07:50:40.105930"
+  "_updated": "2026-08-25T08:24:25.463077"
 }
