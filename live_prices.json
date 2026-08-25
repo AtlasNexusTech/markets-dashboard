@@ -12,28 +12,28 @@
     "prev_close": 26180.5
   },
   "^DJI": {
-    "price": 53417.16,
-    "change": 140.1600000000035,
+    "price": 53417.2,
+    "change": 140.1999999999971,
     "change_pct": 0.26,
     "prev_close": 53277.0
   },
   "^FTSE": {
-    "price": 10872.08,
-    "change": 17.76000000000022,
-    "change_pct": 0.16,
-    "prev_close": 10854.32
+    "price": 10883.73,
+    "change": 67.1299999999992,
+    "change_pct": 0.62,
+    "prev_close": 10816.6
   },
   "^GDAXI": {
-    "price": 26335.62,
-    "change": 229.02000000000044,
-    "change_pct": 0.88,
-    "prev_close": 26106.6
+    "price": 26333.51,
+    "change": 196.90999999999985,
+    "change_pct": 0.75,
+    "prev_close": 26136.6
   },
   "^FCHI": {
-    "price": 8494.08,
-    "change": 41.06999999999971,
-    "change_pct": 0.49,
-    "prev_close": 8453.01
+    "price": 8490.45,
+    "change": 6.020000000000437,
+    "change_pct": 0.07,
+    "prev_close": 8484.43
   },
   "^N225": {
     "price": 65856.43,
@@ -42,21 +42,21 @@
     "prev_close": 65528.09
   },
   "GC=F": {
-    "price": 4693.8,
-    "change": -4.0,
-    "change_pct": -0.09,
+    "price": 4694.6,
+    "change": -3.199999999999818,
+    "change_pct": -0.07,
     "prev_close": 4697.8
   },
   "SI=F": {
-    "price": 67.89,
-    "change": -0.7039999999999935,
-    "change_pct": -1.03,
+    "price": 67.835,
+    "change": -0.7590000000000003,
+    "change_pct": -1.11,
     "prev_close": 68.594
   },
   "CL=F": {
-    "price": 82.31,
-    "change": -2.700000000000003,
-    "change_pct": -3.18,
+    "price": 82.47,
+    "change": -2.5400000000000063,
+    "change_pct": -2.99,
     "prev_close": 85.01
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 86.21
   },
   "BTC-USD": {
-    "price": 79327.16,
-    "change": 344.89400000000023,
-    "change_pct": 0.44,
+    "price": 79207.92,
+    "change": 225.653999999995,
+    "change_pct": 0.29,
     "prev_close": 78982.266
   },
   "ETH-USD": {
-    "price": 2481.44,
-    "change": -0.9328000000000429,
-    "change_pct": -0.04,
+    "price": 2478.08,
+    "change": -4.29280000000017,
+    "change_pct": -0.17,
     "prev_close": 2482.3728
   },
-  "_updated": "2026-08-25T10:50:44.278609"
+  "_updated": "2026-08-25T11:13:17.768435"
 }
