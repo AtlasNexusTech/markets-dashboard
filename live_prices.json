@@ -18,45 +18,45 @@
     "prev_close": 53185.9
   },
   "^FTSE": {
-    "price": 10789.28,
-    "change": -35.01999999999862,
-    "change_pct": -0.32,
-    "prev_close": 10824.3
+    "price": 10731.44,
+    "change": -57.840000000000146,
+    "change_pct": -0.54,
+    "prev_close": 10789.28
   },
   "^GDAXI": {
-    "price": 25970.11,
-    "change": -287.98999999999796,
-    "change_pct": -1.1,
-    "prev_close": 26258.1
+    "price": 25763.01,
+    "change": -207.10000000000218,
+    "change_pct": -0.8,
+    "prev_close": 25970.11
   },
   "^FCHI": {
-    "price": 8301.85,
-    "change": -32.649999999999636,
-    "change_pct": -0.39,
-    "prev_close": 8334.5
+    "price": 8249.68,
+    "change": -52.17000000000007,
+    "change_pct": -0.63,
+    "prev_close": 8301.85
   },
   "^N225": {
-    "price": 64437.89,
-    "change": -1777.449999999997,
-    "change_pct": -2.68,
+    "price": 64325.64,
+    "change": -1889.699999999997,
+    "change_pct": -2.85,
     "prev_close": 66215.34
   },
   "GC=F": {
-    "price": 4370.8,
-    "change": -25.599999999999454,
-    "change_pct": -0.58,
+    "price": 4355.7,
+    "change": -40.69999999999982,
+    "change_pct": -0.93,
     "prev_close": 4396.4
   },
   "SI=F": {
-    "price": 64.6,
-    "change": -0.7690000000000055,
-    "change_pct": -1.18,
+    "price": 64.325,
+    "change": -1.043999999999997,
+    "change_pct": -1.6,
     "prev_close": 65.369
   },
   "CL=F": {
-    "price": 90.67,
-    "change": 0.45000000000000284,
-    "change_pct": 0.5,
+    "price": 90.18,
+    "change": -0.03999999999999204,
+    "change_pct": -0.04,
     "prev_close": 90.22
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 85.57
   },
   "BTC-USD": {
-    "price": 77619.45,
-    "change": 223.55999999999767,
-    "change_pct": 0.29,
+    "price": 76551.48,
+    "change": -844.4100000000035,
+    "change_pct": -1.09,
     "prev_close": 77395.89
   },
   "ETH-USD": {
-    "price": 2421.36,
-    "change": 3.696400000000267,
-    "change_pct": 0.15,
+    "price": 2369.55,
+    "change": -48.11359999999968,
+    "change_pct": -1.99,
     "prev_close": 2417.6636
   },
-  "_updated": "2026-09-02T05:56:10.854205"
+  "_updated": "2026-09-02T10:28:54.522669"
 }
