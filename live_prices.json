@@ -13,21 +13,21 @@
   },
   "^DJI": {
     "price": 53686.11,
-    "change": 624.1600000000035,
+    "change": 624.2099999999991,
     "change_pct": 1.18,
-    "prev_close": 53061.95
+    "prev_close": 53061.9
   },
   "^FTSE": {
     "price": 10831.52,
-    "change": 75.06999999999971,
+    "change": 75.02000000000044,
     "change_pct": 0.7,
-    "prev_close": 10756.45
+    "prev_close": 10756.5
   },
   "^GDAXI": {
     "price": 26003.32,
-    "change": 163.98999999999796,
+    "change": 164.02000000000044,
     "change_pct": 0.63,
-    "prev_close": 25839.33
+    "prev_close": 25839.3
   },
   "^FCHI": {
     "price": 8286.4,
@@ -36,27 +36,27 @@
     "prev_close": 8280.63
   },
   "^N225": {
-    "price": 64478.93,
-    "change": 264.4499999999971,
-    "change_pct": 0.41,
+    "price": 65039.49,
+    "change": 825.0099999999948,
+    "change_pct": 1.28,
     "prev_close": 64214.48
   },
   "GC=F": {
-    "price": 4526.6,
-    "change": -13.299999999999272,
-    "change_pct": -0.29,
+    "price": 4519.5,
+    "change": -20.399999999999636,
+    "change_pct": -0.45,
     "prev_close": 4539.9
   },
   "SI=F": {
-    "price": 67.56,
-    "change": -0.14399999999999125,
-    "change_pct": -0.21,
+    "price": 67.305,
+    "change": -0.3989999999999867,
+    "change_pct": -0.59,
     "prev_close": 67.704
   },
   "CL=F": {
-    "price": 91.61,
-    "change": 0.3100000000000023,
-    "change_pct": 0.34,
+    "price": 91.84,
+    "change": 0.5400000000000063,
+    "change_pct": 0.59,
     "prev_close": 91.3
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 83.39
   },
   "BTC-USD": {
-    "price": 81234.74,
-    "change": -37.179999999993015,
-    "change_pct": -0.05,
+    "price": 81076.51,
+    "change": -195.4100000000035,
+    "change_pct": -0.24,
     "prev_close": 81271.92
   },
   "ETH-USD": {
-    "price": 2508.39,
-    "change": 0.6860999999998967,
-    "change_pct": 0.03,
+    "price": 2511.96,
+    "change": 4.25610000000006,
+    "change_pct": 0.17,
     "prev_close": 2507.7039
   },
-  "_updated": "2026-09-04T00:22:53.058859"
+  "_updated": "2026-09-04T04:46:08.461434"
 }
