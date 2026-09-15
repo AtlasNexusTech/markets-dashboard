@@ -13,21 +13,21 @@
   },
   "^DJI": {
     "price": 52421.2,
-    "change": -152.09000000000378,
+    "change": -152.10000000000582,
     "change_pct": -0.29,
-    "prev_close": 52573.29
+    "prev_close": 52573.3
   },
   "^FTSE": {
     "price": 10697.57,
-    "change": 47.1299999999992,
+    "change": 47.17000000000007,
     "change_pct": 0.44,
-    "prev_close": 10650.44
+    "prev_close": 10650.4
   },
   "^GDAXI": {
     "price": 25440.81,
-    "change": -127.75,
+    "change": -127.78999999999724,
     "change_pct": -0.5,
-    "prev_close": 25568.56
+    "prev_close": 25568.6
   },
   "^FCHI": {
     "price": 8117.78,
@@ -36,27 +36,27 @@
     "prev_close": 8179.77
   },
   "^N225": {
-    "price": 63547.24,
-    "change": 54.25,
-    "change_pct": 0.09,
+    "price": 63370.57,
+    "change": -122.41999999999825,
+    "change_pct": -0.19,
     "prev_close": 63492.99
   },
   "GC=F": {
-    "price": 4326.7,
-    "change": -25.199999999999818,
-    "change_pct": -0.58,
+    "price": 4342.9,
+    "change": -9.0,
+    "change_pct": -0.21,
     "prev_close": 4351.9
   },
   "SI=F": {
-    "price": 63.495,
-    "change": -0.6430000000000078,
-    "change_pct": -1.0,
+    "price": 63.775,
+    "change": -0.36300000000000665,
+    "change_pct": -0.57,
     "prev_close": 64.138
   },
   "CL=F": {
-    "price": 102.58,
-    "change": 1.1899999999999977,
-    "change_pct": 1.17,
+    "price": 103.13,
+    "change": 1.7399999999999949,
+    "change_pct": 1.72,
     "prev_close": 101.39
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 83.58
   },
   "BTC-USD": {
-    "price": 77991.71,
-    "change": -189.61999999999534,
-    "change_pct": -0.24,
+    "price": 77390.59,
+    "change": -790.7400000000052,
+    "change_pct": -1.01,
     "prev_close": 78181.33
   },
   "ETH-USD": {
-    "price": 2511.67,
-    "change": -3.499199999999746,
-    "change_pct": -0.14,
+    "price": 2482.68,
+    "change": -32.48919999999998,
+    "change_pct": -1.29,
     "prev_close": 2515.1692
   },
-  "_updated": "2026-09-15T00:34:16.230822"
+  "_updated": "2026-09-15T05:15:02.780163"
 }
