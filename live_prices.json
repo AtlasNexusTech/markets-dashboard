@@ -18,22 +18,22 @@
     "prev_close": 52421.2
   },
   "^FTSE": {
-    "price": 10658.13,
-    "change": -39.470000000001164,
-    "change_pct": -0.37,
-    "prev_close": 10697.6
+    "price": 10732.75,
+    "change": 74.6200000000008,
+    "change_pct": 0.7,
+    "prev_close": 10658.13
   },
   "^GDAXI": {
-    "price": 25402.28,
-    "change": -38.52000000000044,
-    "change_pct": -0.15,
-    "prev_close": 25440.8
+    "price": 25503.31,
+    "change": 101.03000000000247,
+    "change_pct": 0.4,
+    "prev_close": 25402.28
   },
   "^FCHI": {
-    "price": 8090.28,
-    "change": -27.5,
-    "change_pct": -0.34,
-    "prev_close": 8117.78
+    "price": 8140.59,
+    "change": 50.3100000000004,
+    "change_pct": 0.62,
+    "prev_close": 8090.28
   },
   "^N225": {
     "price": 63923.0,
@@ -42,21 +42,21 @@
     "prev_close": 63484.1
   },
   "GC=F": {
-    "price": 4365.3,
-    "change": 32.5,
-    "change_pct": 0.75,
+    "price": 4383.4,
+    "change": 50.599999999999454,
+    "change_pct": 1.17,
     "prev_close": 4332.8
   },
   "SI=F": {
-    "price": 65.105,
-    "change": 1.2490000000000023,
-    "change_pct": 1.96,
+    "price": 65.28,
+    "change": 1.4239999999999995,
+    "change_pct": 2.23,
     "prev_close": 63.856
   },
   "CL=F": {
-    "price": 104.79,
-    "change": -1.039999999999992,
-    "change_pct": -0.98,
+    "price": 103.14,
+    "change": -2.6899999999999977,
+    "change_pct": -2.54,
     "prev_close": 105.83
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 84.72
   },
   "BTC-USD": {
-    "price": 75875.66,
-    "change": 289.15000000000873,
-    "change_pct": 0.38,
+    "price": 76119.99,
+    "change": 533.4800000000105,
+    "change_pct": 0.71,
     "prev_close": 75586.51
   },
   "ETH-USD": {
-    "price": 2396.56,
-    "change": -1.0774999999998727,
-    "change_pct": -0.04,
+    "price": 2414.84,
+    "change": 17.202500000000327,
+    "change_pct": 0.72,
     "prev_close": 2397.6375
   },
-  "_updated": "2026-09-16T06:46:23.358809"
+  "_updated": "2026-09-16T12:09:46.543114"
 }
