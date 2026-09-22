@@ -1,38 +1,38 @@
 {
   "^GSPC": {
-    "price": 7759.93,
-    "change": -4.769999999999527,
-    "change_pct": -0.06,
+    "price": 7768.41,
+    "change": 3.7100000000000364,
+    "change_pct": 0.05,
     "prev_close": 7764.7
   },
   "^IXIC": {
-    "price": 27209.916,
-    "change": 87.82200000000012,
-    "change_pct": 0.32,
+    "price": 27236.71,
+    "change": 114.61599999999817,
+    "change_pct": 0.42,
     "prev_close": 27122.094
   },
   "^DJI": {
-    "price": 51738.99,
-    "change": -309.8400000000038,
-    "change_pct": -0.6,
+    "price": 51895.88,
+    "change": -152.95000000000437,
+    "change_pct": -0.29,
     "prev_close": 52048.83
   },
   "^FTSE": {
-    "price": 10718.24,
-    "change": -20.770000000000437,
-    "change_pct": -0.19,
+    "price": 10708.33,
+    "change": -30.68000000000029,
+    "change_pct": -0.29,
     "prev_close": 10739.01
   },
   "^GDAXI": {
-    "price": 25602.43,
-    "change": 27.42000000000189,
-    "change_pct": 0.11,
+    "price": 25578.85,
+    "change": 3.8400000000001455,
+    "change_pct": 0.02,
     "prev_close": 25575.01
   },
   "^FCHI": {
-    "price": 8157.85,
-    "change": 18.910000000000764,
-    "change_pct": 0.23,
+    "price": 8154.91,
+    "change": 15.970000000000255,
+    "change_pct": 0.2,
     "prev_close": 8138.94
   },
   "^N225": {
@@ -42,94 +42,94 @@
     "prev_close": 64136.2
   },
   "GC=F": {
-    "price": 4373.2,
-    "change": -10.699999999999818,
-    "change_pct": -0.24,
+    "price": 4389.4,
+    "change": 5.5,
+    "change_pct": 0.13,
     "prev_close": 4383.9
   },
   "SI=F": {
-    "price": 66.505,
-    "change": 0.0899999999999892,
-    "change_pct": 0.14,
+    "price": 67.405,
+    "change": 0.9899999999999949,
+    "change_pct": 1.49,
     "prev_close": 66.415
   },
   "CL=F": {
-    "price": 91.27,
-    "change": -1.1000000000000085,
-    "change_pct": -1.19,
+    "price": 90.68,
+    "change": -1.6899999999999977,
+    "change_pct": -1.83,
     "prev_close": 92.37
   },
   "AAPL": {
-    "price": 343.6,
-    "change": 4.6200000000000045,
-    "change_pct": 1.36,
+    "price": 340.22,
+    "change": 1.240000000000009,
+    "change_pct": 0.37,
     "prev_close": 338.98
   },
   "MSFT": {
-    "price": 494.96,
-    "change": -6.650000000000034,
-    "change_pct": -1.33,
+    "price": 498.36,
+    "change": -3.25,
+    "change_pct": -0.65,
     "prev_close": 501.61
   },
   "NVDA": {
-    "price": 228.4,
-    "change": 1.0200000000000102,
-    "change_pct": 0.45,
+    "price": 229.33,
+    "change": 1.950000000000017,
+    "change_pct": 0.86,
     "prev_close": 227.38
   },
   "TSLA": {
-    "price": 375.9751,
-    "change": 0.7654999999999745,
-    "change_pct": 0.2,
+    "price": 379.5199,
+    "change": 4.310299999999984,
+    "change_pct": 1.15,
     "prev_close": 375.2096
   },
   "GOOGL": {
-    "price": 356.42,
-    "change": 1.4499999999999886,
-    "change_pct": 0.41,
+    "price": 352.07,
+    "change": -2.900000000000034,
+    "change_pct": -0.82,
     "prev_close": 354.97
   },
   "AMZN": {
-    "price": 255.116,
-    "change": -3.3339999999999748,
-    "change_pct": -1.29,
+    "price": 255.06,
+    "change": -3.3899999999999864,
+    "change_pct": -1.31,
     "prev_close": 258.45
   },
   "SPY": {
-    "price": 772.98,
-    "change": -0.5199999999999818,
-    "change_pct": -0.07,
+    "price": 773.84,
+    "change": 0.34000000000003183,
+    "change_pct": 0.04,
     "prev_close": 773.5
   },
   "QQQ": {
-    "price": 744.825,
-    "change": 3.355000000000018,
-    "change_pct": 0.45,
+    "price": 746.375,
+    "change": 4.904999999999973,
+    "change_pct": 0.66,
     "prev_close": 741.47
   },
   "GLD": {
-    "price": 396.996,
-    "change": -1.3840000000000146,
-    "change_pct": -0.35,
+    "price": 399.27,
+    "change": 0.8899999999999864,
+    "change_pct": 0.22,
     "prev_close": 398.38
   },
   "ARKK": {
-    "price": 91.59,
-    "change": 0.8700000000000045,
-    "change_pct": 0.96,
+    "price": 91.85,
+    "change": 1.1299999999999955,
+    "change_pct": 1.25,
     "prev_close": 90.72
   },
   "BTC-USD": {
-    "price": 86287.7,
-    "change": -310.1200000000099,
-    "change_pct": -0.36,
+    "price": 86451.67,
+    "change": -146.15000000000873,
+    "change_pct": -0.17,
     "prev_close": 86597.82
   },
   "ETH-USD": {
-    "price": 2743.44,
-    "change": -32.52390000000014,
-    "change_pct": -1.17,
+    "price": 2754.06,
+    "change": -21.90390000000025,
+    "change_pct": -0.79,
     "prev_close": 2775.9639
   },
-  "_updated": "2026-09-22T15:35:59.095341"
+  "_updated": "2026-09-22T19:05:51.962222"
 }
