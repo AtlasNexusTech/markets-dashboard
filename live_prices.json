@@ -18,22 +18,22 @@
     "prev_close": 52048.8
   },
   "^FTSE": {
-    "price": 10708.33,
-    "change": -30.670000000000073,
-    "change_pct": -0.29,
-    "prev_close": 10739.0
+    "price": 10726.2,
+    "change": 17.8700000000008,
+    "change_pct": 0.17,
+    "prev_close": 10708.33
   },
   "^GDAXI": {
-    "price": 25578.85,
-    "change": 3.849999999998545,
-    "change_pct": 0.02,
-    "prev_close": 25575.0
+    "price": 25489.51,
+    "change": -89.34000000000015,
+    "change_pct": -0.35,
+    "prev_close": 25578.85
   },
   "^FCHI": {
-    "price": 8154.91,
-    "change": 15.970000000000255,
-    "change_pct": 0.2,
-    "prev_close": 8138.94
+    "price": 8157.84,
+    "change": 2.930000000000291,
+    "change_pct": 0.04,
+    "prev_close": 8154.91
   },
   "^N225": {
     "price": 65018.95,
@@ -42,21 +42,21 @@
     "prev_close": 64136.2
   },
   "GC=F": {
-    "price": 4381.4,
-    "change": 5.0,
-    "change_pct": 0.11,
+    "price": 4356.0,
+    "change": -20.399999999999636,
+    "change_pct": -0.47,
     "prev_close": 4376.4
   },
   "SI=F": {
-    "price": 67.2,
-    "change": 0.6700000000000017,
-    "change_pct": 1.01,
+    "price": 66.015,
+    "change": -0.5150000000000006,
+    "change_pct": -0.77,
     "prev_close": 66.53
   },
   "CL=F": {
-    "price": 88.99,
-    "change": -1.5300000000000011,
-    "change_pct": -1.69,
+    "price": 89.85,
+    "change": -0.6700000000000017,
+    "change_pct": -0.74,
     "prev_close": 90.52
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 90.72
   },
   "BTC-USD": {
-    "price": 87202.93,
-    "change": 1007.6499999999942,
-    "change_pct": 1.17,
+    "price": 85821.98,
+    "change": -373.3000000000029,
+    "change_pct": -0.43,
     "prev_close": 86195.28
   },
   "ETH-USD": {
-    "price": 2783.97,
-    "change": 30.71499999999969,
-    "change_pct": 1.12,
+    "price": 2736.24,
+    "change": -17.015000000000327,
+    "change_pct": -0.62,
     "prev_close": 2753.255
   },
-  "_updated": "2026-09-23T04:49:45.659033"
+  "_updated": "2026-09-23T09:34:46.148321"
 }
