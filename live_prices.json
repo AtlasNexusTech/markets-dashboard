@@ -42,22 +42,22 @@
     "prev_close": 65481.27
   },
   "GC=F": {
-    "price": 4186.1,
-    "change": 6.400000000000546,
-    "change_pct": 0.15,
-    "prev_close": 4179.7
+    "price": 4183.9,
+    "change": -2.800000000000182,
+    "change_pct": -0.07,
+    "prev_close": 4186.7
   },
   "SI=F": {
-    "price": 60.655,
-    "change": -0.49799999999999756,
-    "change_pct": -0.81,
-    "prev_close": 61.153
+    "price": 60.62,
+    "change": 0.05399999999999494,
+    "change_pct": 0.09,
+    "prev_close": 60.566
   },
   "CL=F": {
-    "price": 90.57,
-    "change": 1.1899999999999977,
-    "change_pct": 1.33,
-    "prev_close": 89.38
+    "price": 90.08,
+    "change": -0.3400000000000034,
+    "change_pct": -0.38,
+    "prev_close": 90.42
   },
   "AAPL": {
     "price": 333.02,
@@ -96,9 +96,9 @@
     "prev_close": 246.67
   },
   "SPY": {
-    "price": 762.48,
-    "change": -1.7200000000000273,
-    "change_pct": -0.23,
+    "price": 762.63,
+    "change": -1.57000000000005,
+    "change_pct": -0.21,
     "prev_close": 764.2
   },
   "QQQ": {
@@ -108,28 +108,28 @@
     "prev_close": 737.93
   },
   "GLD": {
-    "price": 380.92,
-    "change": -1.9699999999999704,
-    "change_pct": -0.51,
+    "price": 380.84,
+    "change": -2.0500000000000114,
+    "change_pct": -0.54,
     "prev_close": 382.89
   },
   "ARKK": {
-    "price": 89.035,
-    "change": -0.41500000000000625,
-    "change_pct": -0.46,
+    "price": 89.1,
+    "change": -0.3500000000000085,
+    "change_pct": -0.39,
     "prev_close": 89.45
   },
   "BTC-USD": {
-    "price": 83540.79,
-    "change": -84.0,
-    "change_pct": -0.1,
+    "price": 83550.02,
+    "change": -74.76999999998952,
+    "change_pct": -0.09,
     "prev_close": 83624.79
   },
   "ETH-USD": {
-    "price": 2670.01,
-    "change": -6.730699999999615,
-    "change_pct": -0.25,
+    "price": 2687.34,
+    "change": 10.599300000000312,
+    "change_pct": 0.4,
     "prev_close": 2676.7407
   },
-  "_updated": "2026-09-30T20:09:00.610159"
+  "_updated": "2026-09-30T23:45:27.930620"
 }
