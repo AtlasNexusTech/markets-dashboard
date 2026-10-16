@@ -13,21 +13,21 @@
   },
   "^DJI": {
     "price": 52177.69,
-    "change": 556.2099999999991,
+    "change": 556.1900000000023,
     "change_pct": 1.08,
-    "prev_close": 51621.48
+    "prev_close": 51621.5
   },
   "^FTSE": {
     "price": 10840.35,
-    "change": 115.48999999999978,
+    "change": 115.45000000000073,
     "change_pct": 1.08,
-    "prev_close": 10724.86
+    "prev_close": 10724.9
   },
   "^GDAXI": {
     "price": 25382.62,
-    "change": 84.0099999999984,
+    "change": 84.02000000000044,
     "change_pct": 0.33,
-    "prev_close": 25298.61
+    "prev_close": 25298.6
   },
   "^FCHI": {
     "price": 7934.7,
@@ -36,27 +36,27 @@
     "prev_close": 7873.11
   },
   "^N225": {
-    "price": 65130.71,
-    "change": 704.760000000002,
-    "change_pct": 1.09,
+    "price": 65589.55,
+    "change": 1163.6000000000058,
+    "change_pct": 1.81,
     "prev_close": 64425.95
   },
   "GC=F": {
-    "price": 4176.2,
-    "change": 6.099999999999454,
-    "change_pct": 0.15,
+    "price": 4196.1,
+    "change": 26.0,
+    "change_pct": 0.62,
     "prev_close": 4170.1
   },
   "SI=F": {
-    "price": 57.31,
-    "change": 0.15400000000000347,
-    "change_pct": 0.27,
+    "price": 57.945,
+    "change": 0.7890000000000015,
+    "change_pct": 1.38,
     "prev_close": 57.156
   },
   "CL=F": {
-    "price": 95.9,
-    "change": -0.5999999999999943,
-    "change_pct": -0.62,
+    "price": 95.88,
+    "change": -0.6200000000000045,
+    "change_pct": -0.64,
     "prev_close": 96.5
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 84.48
   },
   "BTC-USD": {
-    "price": 82339.21,
-    "change": 206.98000000001048,
-    "change_pct": 0.25,
+    "price": 82046.33,
+    "change": -85.89999999999418,
+    "change_pct": -0.1,
     "prev_close": 82132.23
   },
   "ETH-USD": {
-    "price": 2442.6,
-    "change": 2.7489999999997963,
-    "change_pct": 0.11,
+    "price": 2441.54,
+    "change": 1.6889999999998508,
+    "change_pct": 0.07,
     "prev_close": 2439.851
   },
-  "_updated": "2026-10-16T00:40:03.518786"
+  "_updated": "2026-10-16T04:58:53.727756"
 }
