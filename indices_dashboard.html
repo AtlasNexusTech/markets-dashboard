@@ -178,14 +178,14 @@ h2{color:var(--atlas-text)!important;font-size:1.18rem!important;letter-spacing:
 <div class="header">
 <div class="title-emoji">📈</div>
 <h1>Atlas Nexus — Global Indices</h1>
-<p>Real-time stock index tracking · S&P 500, Nasdaq, FTSE, DAX, Nikkei & more | 20261028-194402</p>
+<p>Real-time stock index tracking · S&P 500, Nasdaq, FTSE, DAX, Nikkei & more | 20261028-233625</p>
 </div>
 <div class="container">
 <div class="stats-grid">
 <div class="card"><div class="value" style="color:var(--accent)">16</div><div class="label">Indices Tracked</div></div>
-<div class="card"><div class="value" style="color:var(--green)">8</div><div class="label">Up Today</div></div>
-<div class="card"><div class="value" style="color:var(--red)">7</div><div class="label">Down Today</div></div>
-<div class="card"><div class="value" style="color:var(--accent2)">0.07%</div><div class="label">Avg Change</div></div>
+<div class="card"><div class="value" style="color:var(--green)">11</div><div class="label">Up Today</div></div>
+<div class="card"><div class="value" style="color:var(--red)">5</div><div class="label">Down Today</div></div>
+<div class="card"><div class="value" style="color:var(--accent2)">0.23%</div><div class="label">Avg Change</div></div>
 </div>
 <div class="sentiment-banner" style="background:#78350f;border:1px solid #f59e0b;border-radius:14px;padding:24px;margin-bottom:20px;text-align:center">
     <div style="font-size:1.8em;margin-bottom:6px">⚖️</div>
@@ -193,7 +193,7 @@ h2{color:var(--atlas-text)!important;font-size:1.18rem!important;letter-spacing:
     <div style="font-size:2.2em;font-weight:800;color:#f59e0b;margin:4px 0">25%</div>
     <div style="color:var(--muted);font-size:.9em">confidence</div>
     <div style="margin-top:12px;display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;font-size:.85em">
-    <div><span style="color:var(--muted)">8/16 assets up</span><br><strong>50</strong></div><div><span style="color:var(--muted)">Avg change</span><br><strong>0.07</strong></div><div><span style="color:var(--muted)">5/16 bullish MA</span><br><strong>31</strong></div><div><span style="color:var(--muted)">1/16 elevated vol</span><br><strong>6</strong></div><div><span style="color:var(--muted)">Avg volatility %</span><br><strong>0.9</strong></div>
+    <div><span style="color:var(--muted)">11/16 assets up</span><br><strong>69</strong></div><div><span style="color:var(--muted)">Avg change</span><br><strong>0.23</strong></div><div><span style="color:var(--muted)">5/16 bullish MA</span><br><strong>31</strong></div><div><span style="color:var(--muted)">1/16 elevated vol</span><br><strong>6</strong></div><div><span style="color:var(--muted)">Avg volatility %</span><br><strong>0.9</strong></div>
     </div></div>
 
 <section class="momentum-scanner-v2 scanner hawkeye-scanner hawkeye-v4" aria-label="Hawkeye V4">
@@ -246,7 +246,13 @@ h2{color:var(--atlas-text)!important;font-size:1.18rem!important;letter-spacing:
 <div class="unusual-head"><div><h2>🚨 Unusual market pressure</h2><p>Extension, volatility or RSI readings that deserve manual chart inspection.</p></div><div class="unusual-count">6</div></div>
 <div class="unusual-grid"><div class='unusual-card'>
   <div class='unusual-main'><strong>Nasdaq</strong><small>^IXIC · mixed · Manual chart check required</small></div>
+  <div class='unusual-flags'><span>ATR pct 92</span></div>
+</div><div class='unusual-card'>
+  <div class='unusual-main'><strong>DAX</strong><small>^GDAXI · mixed · Manual chart check required</small></div>
   <div class='unusual-flags'><span>ATR pct 90</span></div>
+</div><div class='unusual-card'>
+  <div class='unusual-main'><strong>Euro Stoxx 50</strong><small>^STOXX50E · downtrend · Manual chart check required</small></div>
+  <div class='unusual-flags'><span>ATR pct 100</span></div>
 </div><div class='unusual-card'>
   <div class='unusual-main'><strong>Nikkei 225</strong><small>^N225 · downtrend · Manual chart check required</small></div>
   <div class='unusual-flags'><span>RSI 20 depressed</span></div>
@@ -256,12 +262,6 @@ h2{color:var(--atlas-text)!important;font-size:1.18rem!important;letter-spacing:
 </div><div class='unusual-card'>
   <div class='unusual-main'><strong>Shanghai Comp</strong><small>000001.SS · downtrend · Manual chart check required</small></div>
   <div class='unusual-flags'><span>ATR pct 91</span><span>RSI 21 depressed</span></div>
-</div><div class='unusual-card'>
-  <div class='unusual-main'><strong>BSE Sensex</strong><small>^BSESN · mixed · Manual chart check required</small></div>
-  <div class='unusual-flags'><span>ATR pct 98</span></div>
-</div><div class='unusual-card'>
-  <div class='unusual-main'><strong>Nifty 50</strong><small>^NSEI · downtrend · Manual chart check required</small></div>
-  <div class='unusual-flags'><span>ATR pct 98</span></div>
 </div></div>
 </section>
 <h2 style="color:var(--accent);margin-bottom:12px">🌍 Index Leaderboard</h2>
@@ -270,30 +270,30 @@ h2{color:var(--atlas-text)!important;font-size:1.18rem!important;letter-spacing:
 <th>Index</th><th>Price</th><th>Change</th><th>MA(5)</th><th>MA(20)</th><th>Trend</th><th>Volatility</th>
 </tr></thead><tbody><tr>
             <td><strong>S&P 500</strong> <small style="color:var(--muted)">US</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=SP%3ASPX" target="_blank" rel="noopener noreferrer" title="Open SP:SPX on TradingView">Chart ↗</a></td>
-            <td class="price">7,738</td>
-            <td style="color:#22c55e">▲ 0.19%</td>
-            <td>7,685</td><td>7,734</td>
+            <td class="price">7,744</td>
+            <td style="color:#22c55e">▲ 0.28%</td>
+            <td>7,686</td><td>7,734</td>
             <td><span style="color:#ef4444">BEARISH</span></td>
             <td>0.5%</td>
         </tr><tr>
             <td><strong>Nasdaq</strong> <small style="color:var(--muted)">US</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=NASDAQ%3ANDX" target="_blank" rel="noopener noreferrer" title="Open NASDAQ:NDX on TradingView">Chart ↗</a></td>
-            <td class="price">26,501</td>
-            <td style="color:#22c55e">▲ 0.09%</td>
-            <td>26,222</td><td>26,795</td>
+            <td class="price">26,550</td>
+            <td style="color:#22c55e">▲ 0.27%</td>
+            <td>26,232</td><td>26,798</td>
             <td><span style="color:#ef4444">BEARISH</span></td>
             <td>0.8%</td>
         </tr><tr>
             <td><strong>Dow Jones</strong> <small style="color:var(--muted)">US</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=DJ%3ADJI" target="_blank" rel="noopener noreferrer" title="Open DJ:DJI on TradingView">Chart ↗</a></td>
-            <td class="price">52,476</td>
+            <td class="price">52,475</td>
             <td style="color:#22c55e">▲ 0.19%</td>
-            <td>52,460</td><td>51,895</td>
+            <td>52,459</td><td>51,895</td>
             <td><span style="color:#22c55e">BULLISH</span></td>
             <td>0.4%</td>
         </tr><tr>
             <td><strong>Russell 2000</strong> <small style="color:var(--muted)">US</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=TVC%3ARUT" target="_blank" rel="noopener noreferrer" title="Open TVC:RUT on TradingView">Chart ↗</a></td>
-            <td class="price">2,815</td>
-            <td style="color:#ef4444">▼ 0.13%</td>
-            <td>2,796</td><td>2,789</td>
+            <td class="price">2,831</td>
+            <td style="color:#22c55e">▲ 0.41%</td>
+            <td>2,799</td><td>2,789</td>
             <td><span style="color:#94a3b8">NEUTRAL</span></td>
             <td>0.7%</td>
         </tr><tr>
@@ -306,22 +306,22 @@ h2{color:var(--atlas-text)!important;font-size:1.18rem!important;letter-spacing:
         </tr><tr>
             <td><strong>DAX</strong> <small style="color:var(--muted)">Germany</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=XETR%3ADAX" target="_blank" rel="noopener noreferrer" title="Open XETR:DAX on TradingView">Chart ↗</a></td>
             <td class="price">25,704</td>
-            <td style="color:#22c55e">▲ 0.44%</td>
-            <td>25,452</td><td>25,312</td>
+            <td style="color:#22c55e">▲ 0.71%</td>
+            <td>25,440</td><td>25,287</td>
             <td><span style="color:#22c55e">BULLISH</span></td>
             <td>0.8%</td>
         </tr><tr>
             <td><strong>CAC 40</strong> <small style="color:var(--muted)">France</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=EURONEXT%3APX1" target="_blank" rel="noopener noreferrer" title="Open EURONEXT:PX1 on TradingView">Chart ↗</a></td>
             <td class="price">7,887</td>
-            <td style="color:#6b7280">— 0.00%</td>
-            <td>7,843</td><td>7,850</td>
+            <td style="color:#22c55e">▲ 0.51%</td>
+            <td>7,850</td><td>7,854</td>
             <td><span style="color:#94a3b8">NEUTRAL</span></td>
-            <td>0.7%</td>
+            <td>0.8%</td>
         </tr><tr>
             <td><strong>Euro Stoxx 50</strong> <small style="color:var(--muted)">EU</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=TVC%3ASX5E" target="_blank" rel="noopener noreferrer" title="Open TVC:SX5E on TradingView">Chart ↗</a></td>
             <td class="price">6,168</td>
-            <td style="color:#22c55e">▲ 0.05%</td>
-            <td>6,121</td><td>6,171</td>
+            <td style="color:#22c55e">▲ 0.79%</td>
+            <td>6,129</td><td>6,176</td>
             <td><span style="color:#ef4444">BEARISH</span></td>
             <td>0.8%</td>
         </tr><tr>
@@ -368,21 +368,21 @@ h2{color:var(--atlas-text)!important;font-size:1.18rem!important;letter-spacing:
             <td>2.4%</td>
         </tr><tr>
             <td><strong>ASX 200</strong> <small style="color:var(--muted)">Australia</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=AXJO" target="_blank" rel="noopener noreferrer" title="Open AXJO on TradingView">Chart ↗</a></td>
-            <td class="price">8,847</td>
-            <td style="color:#ef4444">▼ 0.03%</td>
-            <td>8,819</td><td>8,762</td>
+            <td class="price">8,886</td>
+            <td style="color:#22c55e">▲ 0.40%</td>
+            <td>8,827</td><td>8,764</td>
             <td><span style="color:#22c55e">BULLISH</span></td>
             <td>0.5%</td>
         </tr><tr>
             <td><strong>Bovespa</strong> <small style="color:var(--muted)">Brazil</small><br><a class="tv-link" href="https://www.tradingview.com/chart/?symbol=BVSP" target="_blank" rel="noopener noreferrer" title="Open BVSP on TradingView">Chart ↗</a></td>
-            <td class="price">171,271</td>
-            <td style="color:#ef4444">▼ 2.53%</td>
-            <td>186,558</td><td>198,690</td>
+            <td class="price">171,006</td>
+            <td style="color:#ef4444">▼ 2.68%</td>
+            <td>186,505</td><td>198,677</td>
             <td><span style="color:#ef4444">BEARISH</span></td>
             <td>2.0%</td>
         </tr></tbody></table></div></div>
 
-<div class="footer"><p>📈 Built by <strong>Atlas Nexus</strong> · Data: Yahoo Finance · Generated: 20261028-194402</p></div>
+<div class="footer"><p>📈 Built by <strong>Atlas Nexus</strong> · Data: Yahoo Finance · Generated: 20261028-233625</p></div>
 </div><script>
 // Dual theme toggle with localStorage
 (function(){var h=document.documentElement;var b=document.getElementById('themeToggle');var s=localStorage.getItem('atlas-theme')||'light';h.setAttribute('data-theme',s);b.addEventListener('click',function(){var n=h.getAttribute('data-theme')==='dark'?'light':'dark';h.setAttribute('data-theme',n);localStorage.setItem('atlas-theme',n)})})();
