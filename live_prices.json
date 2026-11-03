@@ -18,22 +18,22 @@
     "prev_close": 51770.31
   },
   "^FTSE": {
-    "price": 10761.33,
-    "change": 31.549999999999272,
-    "change_pct": 0.29,
-    "prev_close": 10729.78
+    "price": 10697.0,
+    "change": -64.32999999999993,
+    "change_pct": -0.6,
+    "prev_close": 10761.33
   },
   "^GDAXI": {
-    "price": 25981.09,
-    "change": 162.88000000000102,
-    "change_pct": 0.63,
-    "prev_close": 25818.21
+    "price": 25823.82,
+    "change": -157.27000000000044,
+    "change_pct": -0.61,
+    "prev_close": 25981.09
   },
   "^FCHI": {
-    "price": 8047.69,
-    "change": 78.26999999999953,
-    "change_pct": 0.98,
-    "prev_close": 7969.42
+    "price": 8030.15,
+    "change": -17.539999999999964,
+    "change_pct": -0.22,
+    "prev_close": 8047.69
   },
   "^N225": {
     "price": 63081.86,
@@ -42,21 +42,21 @@
     "prev_close": 63290.1
   },
   "GC=F": {
-    "price": 3938.5,
-    "change": -31.09999999999991,
-    "change_pct": -0.78,
+    "price": 3916.0,
+    "change": -53.59999999999991,
+    "change_pct": -1.35,
     "prev_close": 3969.6
   },
   "SI=F": {
-    "price": 49.81,
-    "change": -1.0779999999999959,
-    "change_pct": -2.12,
+    "price": 49.05,
+    "change": -1.838000000000001,
+    "change_pct": -3.61,
     "prev_close": 50.888
   },
   "CL=F": {
-    "price": 96.67,
-    "change": 0.21000000000000796,
-    "change_pct": 0.22,
+    "price": 98.47,
+    "change": 2.010000000000005,
+    "change_pct": 2.08,
     "prev_close": 96.46
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 80.75
   },
   "BTC-USD": {
-    "price": 76638.82,
-    "change": -45.06999999999243,
-    "change_pct": -0.06,
+    "price": 77018.8,
+    "change": 334.9100000000035,
+    "change_pct": 0.44,
     "prev_close": 76683.89
   },
   "ETH-USD": {
-    "price": 2244.79,
-    "change": -4.467999999999847,
-    "change_pct": -0.2,
+    "price": 2264.12,
+    "change": 14.86200000000008,
+    "change_pct": 0.66,
     "prev_close": 2249.258
   },
-  "_updated": "2026-11-03T04:04:51.845530"
+  "_updated": "2026-11-03T11:50:15.095317"
 }
