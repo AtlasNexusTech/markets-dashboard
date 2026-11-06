@@ -13,21 +13,21 @@
   },
   "^DJI": {
     "price": 51523.06,
-    "change": -1833.060000000005,
+    "change": -1833.0400000000009,
     "change_pct": -3.44,
-    "prev_close": 53356.12
+    "prev_close": 53356.1
   },
   "^FTSE": {
     "price": 10782.66,
-    "change": -46.54999999999927,
+    "change": -46.54000000000087,
     "change_pct": -0.43,
-    "prev_close": 10829.21
+    "prev_close": 10829.2
   },
   "^GDAXI": {
     "price": 26325.01,
-    "change": -112.65999999999985,
+    "change": -112.69000000000233,
     "change_pct": -0.43,
-    "prev_close": 26437.67
+    "prev_close": 26437.7
   },
   "^FCHI": {
     "price": 8205.37,
@@ -36,27 +36,27 @@
     "prev_close": 8177.89
   },
   "^N225": {
-    "price": 58084.91,
-    "change": -2992.989999999998,
-    "change_pct": -4.9,
+    "price": 57434.77,
+    "change": -3643.1300000000047,
+    "change_pct": -5.96,
     "prev_close": 61077.9
   },
   "GC=F": {
-    "price": 4112.0,
-    "change": -1.5,
-    "change_pct": -0.04,
+    "price": 4055.3,
+    "change": -58.19999999999982,
+    "change_pct": -1.41,
     "prev_close": 4113.5
   },
   "SI=F": {
-    "price": 52.035,
-    "change": -0.3410000000000011,
-    "change_pct": -0.65,
+    "price": 51.46,
+    "change": -0.9159999999999968,
+    "change_pct": -1.75,
     "prev_close": 52.376
   },
   "CL=F": {
-    "price": 90.9,
-    "change": 0.38000000000000966,
-    "change_pct": 0.42,
+    "price": 91.32,
+    "change": 0.7999999999999972,
+    "change_pct": 0.88,
     "prev_close": 90.52
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 80.37
   },
   "BTC-USD": {
-    "price": 76160.29,
-    "change": 177.47999999999593,
-    "change_pct": 0.23,
+    "price": 75297.82,
+    "change": -684.9899999999907,
+    "change_pct": -0.9,
     "prev_close": 75982.81
   },
   "ETH-USD": {
-    "price": 2241.08,
-    "change": 5.925499999999829,
-    "change_pct": 0.27,
+    "price": 2218.59,
+    "change": -16.564499999999953,
+    "change_pct": -0.74,
     "prev_close": 2235.1545
   },
-  "_updated": "2026-11-06T00:32:24.551729"
+  "_updated": "2026-11-06T07:17:46.500819"
 }
