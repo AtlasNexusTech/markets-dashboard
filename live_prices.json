@@ -13,21 +13,21 @@
   },
   "^DJI": {
     "price": 52347.55,
-    "change": 50.4600000000064,
+    "change": 50.450000000004366,
     "change_pct": 0.1,
-    "prev_close": 52297.09
+    "prev_close": 52297.1
   },
   "^FTSE": {
     "price": 10902.56,
-    "change": 39.469999999999345,
+    "change": 39.45999999999913,
     "change_pct": 0.36,
-    "prev_close": 10863.09
+    "prev_close": 10863.1
   },
   "^GDAXI": {
     "price": 26749.95,
-    "change": -21.93000000000029,
+    "change": -21.950000000000728,
     "change_pct": -0.08,
-    "prev_close": 26771.88
+    "prev_close": 26771.9
   },
   "^FCHI": {
     "price": 8368.91,
@@ -37,26 +37,26 @@
   },
   "^N225": {
     "price": 61142.35,
-    "change": 322.98999999999796,
+    "change": 322.9499999999971,
     "change_pct": 0.53,
-    "prev_close": 60819.36
+    "prev_close": 60819.4
   },
   "GC=F": {
-    "price": 3887.6,
-    "change": 2.299999999999727,
-    "change_pct": 0.06,
+    "price": 3886.3,
+    "change": 1.0,
+    "change_pct": 0.03,
     "prev_close": 3885.3
   },
   "SI=F": {
-    "price": 48.65,
-    "change": -1.4149999999999991,
-    "change_pct": -2.83,
+    "price": 49.121,
+    "change": -0.9439999999999955,
+    "change_pct": -1.89,
     "prev_close": 50.065
   },
   "CL=F": {
-    "price": 88.92,
-    "change": 0.18000000000000682,
-    "change_pct": 0.2,
+    "price": 88.56,
+    "change": -0.1799999999999926,
+    "change_pct": -0.2,
     "prev_close": 88.74
   },
   "AAPL": {
@@ -120,16 +120,16 @@
     "prev_close": 76.5
   },
   "BTC-USD": {
-    "price": 68316.22,
-    "change": 78.00999999999476,
-    "change_pct": 0.11,
+    "price": 67156.36,
+    "change": -1081.8500000000058,
+    "change_pct": -1.59,
     "prev_close": 68238.21
   },
   "ETH-USD": {
-    "price": 1929.75,
-    "change": 2.344100000000026,
-    "change_pct": 0.12,
+    "price": 1897.22,
+    "change": -30.185899999999947,
+    "change_pct": -1.57,
     "prev_close": 1927.4059
   },
-  "_updated": "2026-11-14T01:44:57.816597"
+  "_updated": "2026-11-14T08:03:18.809433"
 }
